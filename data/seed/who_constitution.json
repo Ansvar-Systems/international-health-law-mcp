@@ -1,0 +1,743 @@
+{
+  "id": "WHO_CONSTITUTION",
+  "full_name": "Constitution of the World Health Organization",
+  "identifier": "WHO-CONSTITUTION",
+  "authority": "World Health Organization",
+  "jurisdiction": "INTL",
+  "instrument_type": "treaty",
+  "category": "global-health-governance",
+  "source_url": "https://www.who.int/about/governance/constitution",
+  "effective_date": "1948-04-07",
+  "items": [
+    {
+      "item_id": "ART_2",
+      "title": "Article 2",
+      "text": "Article 2 In order to achieve its objective, the functions of the Organization shall be: (a) to act as the directing and co-ordinating authority on international health work; (b) to establish and maintain effective collaboration with the United Nations, specialized agencies, governmental health administrations, professional groups and such other organizations as may be deemed appropriate; (c) to assist Governments, upon request, in strengthening health services; (d) to furnish appropriate technical assistance and, in emergencies, neces- sary aid upon the request or acceptance of Governments; (e) to provide or assist in providing, upon the request of the United Nations, health services and facilities to special groups, such as the peoples of trust territories; (f) to establish and maintain such administrative and technical services as may be required, including epidemiological and statistical services; (g) to stimulate and advance work to eradicate epidemic, endemic and other diseases; (h) to promote, in co-operation with other specialized agencies where nec- essary, the prevention of accidental injuries; (i) to promote, in co-operation with other specialized agencies where nec- essary, the improvement of nutrition, housing, sanitation, recreation, economic or working conditions and other aspects of environmental hygiene; (j) to promote co-operation among scientific and professional groups which contribute to the advancement of health; (k) to propose conventions, agreements and regulations, and make recom- mendations with respect to international health matters and to perform CONSTITUTION OF WHO 3 such duties as may be assigned thereby to the Organization and are consistent with its objective; (l) to promote maternal and child health and welfare and to foster the abil- ity to live harmoniously in a changing total environment; (m) to foster activities in the field of mental health, especially those affect- ing the harmony of human relations; (n) to promote and conduct research in the field of health; (o) to promote improved standards of teaching and training in the health, medical and related professions; (p) to study and report on, in co-operation with other specialized agencies where necessary, administrative and social techniques affecting public health and medical care from preventive and curative points of view, including hospital services and social security; (q) to provide information, counsel and assistance in the field of health; (r) to assist in developing an informed public opinion among all peoples on matters of health; (s) to establish and revise as necessary international nomenclatures of dis- eases, of causes of death and of public health practices; (t) to standardize diagnostic procedures as necessary; (u) to develop, establish and promote international standards with respect to food, biological, pharmaceutical and similar products; (v) generally to take all necessary action to attain the objective of the Organization. CHAPTER III \u2013 MEMBERSHIP AND ASSOCIATE MEMBERSHIP",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_4",
+      "title": "Article 4",
+      "text": "Article 4 Members of the United Nations may become Members of the Organiza- tion by signing or otherwise accepting this Constitution in accordance with the provisions of Chapter XIX and in accordance with their constitutional processes.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_5",
+      "title": "Article 5",
+      "text": "Article 5 The States whose Governments have been invited to send observers to the International Health Conference held in New York, 1946, may become 4 BASIC DOCUMENTS Members by signing or otherwise accepting this Constitution in accordance with the provisions of Chapter XIX and in accordance with their constitu- tional processes provided that such signature or acceptance shall be com- pleted before the first session of the Health Assembly.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_6",
+      "title": "Article 6",
+      "text": "Article 6 Subject to the conditions of any agreement between the United Nations and the Organization, approved pursuant to Chapter XVI, States which do not become Members in accordance with Articles 4 and 5 may apply to become Members and shall be admitted as Members when their application has been approved by a simple majority vote of the Health Assembly.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_7",
+      "title": "Article 7 1",
+      "text": "Article 7 1 If a Member fails to meet its financial obligations to the Organization or in other exceptional circumstances, the Health Assembly may, on such con- ditions as it thinks proper, suspend the voting privileges and services to which a Member is entitled. The Health Assembly shall have the authority to restore such voting privileges and services.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_8",
+      "title": "Article 8",
+      "text": "Article 8 Territories or groups of territories which are not responsible for the con- duct of their international relations may be admitted as Associate Members by the Health Assembly upon application made on behalf of such territory or group of territories by the Member or other authority having responsibil- ity for their international relations. Representatives of Associate Members to the Health Assembly should be qualified by their technical competence in the field of health and should be chosen from the native population. The nature and extent of the rights and obligations of Associate Members shall be determined by the Health Assembly. CHAPTER IV \u2013 ORGANS",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_9",
+      "title": "Article 9",
+      "text": "Article 9 The work of the Organization shall be carried out by: (a) The World Health Assembly (herein called the Health Assembly); (b) The Executive Board (hereinafter called the Board); (c) The Secretariat. 1 The amendment to this Article adopted by the Eighteenth World Health Assembly (resolution WHA18.48) has not yet come into force. CONSTITUTION OF WHO 5 CHAPTER V \u2013 THE WORLD HEALTH ASSEMBLY",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_11",
+      "title": "Article 11",
+      "text": "Article 11 Each Member shall be represented by not more than three delegates, one of whom shall be designated by the Member as chief delegate. These dele- gates should be chosen from among persons most qualified by their techni- cal competence in the field of health, preferably representing the national health administration of the Member.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_14",
+      "title": "Article 14",
+      "text": "Article 14 The Health Assembly, at each annual session, shall select the country or region in which the next annual session shall be held, the Board subse- quently fixing the place. The Board shall determine the place where a spe- cial session shall be held.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_18",
+      "title": "Article 18",
+      "text": "Article 18 The functions of the Health Assembly shall be: (a) to determine the policies of the Organization; (b) to name the Members entitled to designate a person to serve on the Board; (c) to appoint the Director-General; (d) to review and approve reports and activities of the Board and of the Director-General and to instruct the Board in regard to matters upon which action, study, investigation or report may be considered desira- ble; (e) to establish such committees as may be considered necessary for the work of the Organization; (f) to supervise the financial policies of the Organization and to review and approve the budget; (g) to instruct the Board and the Director-General to bring to the attention of Members and of international organizations, governmental or non- governmental, any matter with regard to health which the Health Assembly may consider appropriate; (h) to invite any organization, international or national, governmental or non-governmental, which has responsibilities related to those of the Organization, to appoint representatives to participate, without right of vote, in its meetings or in those of the committees and conferences con- vened under its authority, on conditions prescribed by the Health Assembly; but in the case of national organizations, invitations shall be issued only with the consent of the Government concerned; (i) to consider recommendations bearing on health made by the General Assembly, the Economic and Social Council, the Security Council or Trusteeship Council of the United Nations, and to report to them on the steps taken by the Organization to give effect to such recommenda- tions; (j) to report to the Economic and Social Council in accordance with any agreement between the Organization and the United Nations; (k) to promote and conduct research in the field of health by the personnel of the Organization, by the establishment of its own institutions or by co-operation with official or non-official institutions of any Member with the consent of its Government; (l) to establish such other institutions as it may consider desirable; (m) to take any other appropriate action to further the objective of the Organization. CONSTITUTION OF WHO 7",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_19",
+      "title": "Article 19",
+      "text": "Article 19 The Health Assembly shall have authority to adopt conventions or agreements with respect to any matter within the competence of the Organ- ization. A two-thirds vote of the Health Assembly shall be required for the adoption of such conventions or agreements, which shall come into force for each Member when accepted by it in accordance with its constitutional processes.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_20",
+      "title": "Article 20",
+      "text": "Article 20 Each Member undertakes that it will, within eighteen months after the adoption by the Health Assembly of a convention or agreement, take action relative to the acceptance of such convention or agreement. Each Member shall notify the Director-General of the action taken, and if it does not accept such convention or agreement within the time limit, it will furnish a statement of the reasons for non-acceptance. In case of acceptance, each Member agrees to make an annual report to the Director-General in accord- ance with Chapter XIV.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_21",
+      "title": "Article 21",
+      "text": "Article 21 The Health Assembly shall have authority to adopt regulations concern- ing: (a) sanitary and quarantine requirements and other procedures designed to prevent the international spread of disease; (b) nomenclatures with respect to diseases, causes of death and public health practices; (c) standards with respect to diagnostic procedures for international use; (d) standards with respect to the safety, purity and potency of biological, pharmaceutical and similar products moving in international com- merce; (e) advertising and labelling of biological, pharmaceutical and similar products moving in international commerce.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_22",
+      "title": "Article 22",
+      "text": "Article 22 Regulations adopted pursuant to Article 21 shall come into force for all Members after due notice has been given of their adoption by the Health Assembly except for such Members as may notify the Director-General of rejection or reservations within the period stated in the notice. 8 BASIC DOCUMENTS",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_24",
+      "title": "Article 24",
+      "text": "Article 24 The Board shall consist of thirty-four persons designated by as many Members. The Health Assembly, taking into account an equitable geo- graphical distribution, shall elect the Members entitled to designate a per- son to serve on the Board, provided that, of such Members, not less than three shall be elected from each of the regional organizations established pursuant to Article 44. Each of these Members should appoint to the Board a person technically qualified in the field of health, who may be accompa- nied by alternates and advisers.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_25",
+      "title": "Article 25",
+      "text": "Article 25 These Members shall be elected for three years and may be re-elected, provided that of the Members elected at the first session of the Health Assembly held after the coming into force of the amendment to this Consti- tution increasing the membership of the Board from thirty-two to thirty- four the term of office of the additional Members elected shall, insofar as may be necessary, be of such lesser duration as shall facilitate the election of at least one Member from each regional organization in each year.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_28",
+      "title": "Article 28",
+      "text": "Article 28 The functions of the Board shall be: (a) to give effect to the decisions and policies of the Health Assembly; (b) to act as the executive organ of the Health Assembly; CONSTITUTION OF WHO 9 (c) to perform any other functions entrusted to it by the Health Assembly; (d) to advise the Health Assembly on questions referred to it by that body and on matters assigned to the Organization by conventions, agree- ments and regulations; (e) to submit advice or proposals to the Health Assembly on its own initia- tive; (f) to prepare the agenda of meetings of the Health Assembly; (g) to submit to the Health Assembly for consideration and approval a gen- eral programme of work covering a specific period; (h) to study all questions within its competence; (i) to take emergency measures within the functions and financial resources of the Organization to deal with events requiring immediate action. In particular it may authorize the Director-General to take the necessary steps to combat epidemics, to participate in the organization of health relief to victims of a calamity and to undertake studies and research the urgency of which has been drawn to the attention of the Board by any Member or by the Director-General.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_31",
+      "title": "Article 31",
+      "text": "Article 31 The Director-General shall be appointed by the Health Assembly on the nomination of the Board on such terms as the Health Assembly may deter- mine. The Director-General, subject to the authority of the Board, shall be the chief technical and administrative officer of the Organization.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_32",
+      "title": "Article 32",
+      "text": "Article 32 The Director-General shall be ex officio Secretary of the Health Assem- bly, of the Board, of all commissions and committees of the Organization and of conferences convened by it. He may delegate these functions. 10 BASIC DOCUMENTS",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_33",
+      "title": "Article 33",
+      "text": "Article 33 The Director-General or his representative may establish a procedure by agreement with Members, permitting him, for the purpose of discharging his duties, to have direct access to their various departments, especially to their health administrations and to national health organizations, govern- mental or non-governmental. He may also establish direct relations with international organizations whose activities come within the competence of the Organization. He shall keep regional offices informed on all matters involving their respective areas.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_35",
+      "title": "Article 35",
+      "text": "Article 35 The Director-General shall appoint the staff of the Secretariat in accord- ance with staff regulations established by the Health Assembly. The para- mount consideration in the employment of the staff shall be to assure that the efficiency, integrity and internationally representative character of the Secretariat shall be maintained at the highest level. Due regard shall be paid also to the importance of recruiting the staff on as wide a geographical basis as possible.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_37",
+      "title": "Article 37",
+      "text": "Article 37 In the performance of their duties the Director-General and the staff shall not seek or receive instructions from any government or from any authority external to the Organization. They shall refrain from any action which might reflect on their position as international officers. Each Mem- ber of the Organization on its part undertakes to respect the exclusively international character of the Director-General and the staff and not to seek to influence them. CHAPTER VIII \u2013 COMMITTEES",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_38",
+      "title": "Article 38",
+      "text": "Article 38 The Board shall establish such committees as the Health Assembly may direct and, on its own initiative or on the proposal of the Director-General, may establish any other committees considered desirable to serve any pur- pose within the competence of the Organization. CONSTITUTION OF WHO 11",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_40",
+      "title": "Article 40",
+      "text": "Article 40 The Board may provide for the creation of or the participation by the Organization in joint or mixed committees with other organizations and for the representation of the Organization in committees established by such other organizations. CHAPTER IX \u2013 CONFERENCES",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_41",
+      "title": "Article 41",
+      "text": "Article 41 The Health Assembly or the Board may convene local, general, techni- cal or other special conferences to consider any matter within the compe- tence of the Organization and may provide for the representation at such conferences of international organizations and, with the consent of the Government concerned, of national organizations, governmental or non- governmental. The manner of such representation shall be determined by the Health Assembly or the Board.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_44",
+      "title": "Article 44",
+      "text": "Article 44 (a) The Health Assembly shall from time to time define the geographi- cal areas in which it is desirable to establish a regional organization. (b) The Health Assembly may, with the consent of a majority of the Members situated within each area so defined, establish a regional organi- zation to meet the special needs of such area. There shall not be more than one regional organization in each area. 12 BASIC DOCUMENTS",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_47",
+      "title": "Article 47",
+      "text": "Article 47 Regional committees shall be composed of representatives of the Mem- ber States and Associate Members in the region concerned. Territories or groups of territories within the region, which are not responsible for the conduct of their international relations and which are not Associate Mem- bers, shall have the right to be represented and to participate in regional committees. The nature and extent of the rights and obligations of these ter- ritories or groups of territories in regional committees shall be determined by the Health Assembly in consultation with the Member or other authority having responsibility for the international relations of these territories and with the Member States in the region.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_50",
+      "title": "Article 50",
+      "text": "Article 50 The functions of the regional committee shall be: (a) to formulate policies governing matters of an exclusively regional char- acter; (b) to supervise the activities of the regional office; (c) to suggest to the regional office the calling of technical conferences and such additional work or investigation in health matters as in the opinion of the regional committee would promote the objective of the Organiza- tion within the region; (d) to co-operate with the respective regional committees of the United Nations and with those of other specialized agencies and with other regional international organizations having interests in common with the Organization; CONSTITUTION OF WHO 13 (e) to tender advice, through the Director-General, to the Organization on international health matters which have wider than regional signifi- cance; (f) to recommend additional regional appropriations by the Governments of the respective regions if the proportion of the central budget of the Organization allotted to that region is insufficient for the carrying-out of the regional functions; (g) such other functions as may be delegated to the regional committee by the Health Assembly, the Board or the Director-General.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_51",
+      "title": "Article 51",
+      "text": "Article 51 Subject to the general authority of the Director-General of the Organiza- tion, the regional office shall be the administrative organ of the regional committee. It shall, in addition, carry out within the region the decisions of the Health Assembly and of the Board.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_54",
+      "title": "Article 54",
+      "text": "Article 54 The Pan American Sanitary Organization1 represented by the Pan American Sanitary Bureau and the Pan American Sanitary Conferences, and all other inter-governmental regional health organizations in existence prior to the date of signature of this Constitution, shall in due course be integrated with the Organization. This integration shall be effected as soon as practicable through common action based on mutual consent of the competent authorities expressed through the organizations concerned. CHAPTER XII \u2013 BUDGET AND EXPENSES",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_55",
+      "title": "Article 55",
+      "text": "Article 55 The Director-General shall prepare and submit to the Board the budget estimates of the Organization. The Board shall consider and submit to the Health Assembly such budget estimates, together with any recommenda- tions the Board may deem advisable. 1 Renamed \u201cPan American Health Organization\u201d by decision of the XV Pan American Sanitary Confe- rence, September-October 1958. 14 BASIC DOCUMENTS",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_56",
+      "title": "Article 56",
+      "text": "Article 56 Subject to any agreement between the Organization and the United Nations, the Health Assembly shall review and approve the budget esti- mates and shall apportion the expenses among the Members in accordance with a scale to be fixed by the Health Assembly.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_57",
+      "title": "Article 57",
+      "text": "Article 57 The Health Assembly or the Board acting on behalf of the Health Assembly may accept and administer gifts and bequests made to the Organ- ization provided that the conditions attached to such gifts or bequests are acceptable to the Health Assembly or the Board and are consistent with the objective and policies of the Organization.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_60",
+      "title": "Article 60",
+      "text": "Article 60 (a) Decisions of the Health Assembly on important questions shall be made by a two-thirds majority of the Members present and voting. These questions shall include: the adoption of conventions or agreements; the approval of agreements bringing the Organization into relation with the United Nations and inter-governmental organizations and agencies in accordance with Articles 69, 70 and 72; amendments to this Constitution. (b) Decisions on other questions, including the determination of addi- tional categories of questions to be decided by a two-thirds majority, shall be made by a majority of the Members present and voting. (c) Voting on analogous matters in the Board and in committees of the Organization shall be made in accordance with paragraphs (a) and (b) of this Article. CHAPTER XIV \u2013 REPORTS SUBMITTED BY STATES",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_67",
+      "title": "Article 67",
+      "text": "Article 67 (a) The Organization shall enjoy in the territory of each Member such privileges and immunities as may be necessary for the fulfilment of its objective and for the exercise of its functions. (b) Representatives of Members, persons designated to serve on the Board and technical and administrative personnel of the Organization shall similarly enjoy such privileges and immunities as are necessary for the independent exercise of their functions in connection with the Organization.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_68",
+      "title": "Article 68",
+      "text": "Article 68 Such legal capacity, privileges and immunities shall be defined in a separate agreement to be prepared by the Organization in consultation with the Secretary-General of the United Nations and concluded between the Members. 16 BASIC DOCUMENTS CHAPTER XVI \u2013 RELATIONS WITH OTHER ORGANIZATIONS",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_69",
+      "title": "Article 69",
+      "text": "Article 69 The Organization shall be brought into relation with the United Nations as one of the specialized agencies referred to in Article 57 of the Charter of the United Nations. The agreement or agreements bringing the Organiza- tion into relation with the United Nations shall be subject to approval by a two-thirds vote of the Health Assembly.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_70",
+      "title": "Article 70",
+      "text": "Article 70 The Organization shall establish effective relations and co-operate closely with such other inter-governmental organizations as may be desira- ble. Any formal agreement entered into with such organizations shall be subject to approval by a two-thirds vote of the Health Assembly.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_71",
+      "title": "Article 71",
+      "text": "Article 71 The Organization may, on matters within its competence, make suitable arrangements for consultation and co-operation with non-governmental international organizations and, with the consent of the Government con- cerned, with national organizations, governmental or non-governmental.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_72",
+      "title": "Article 72",
+      "text": "Article 72 Subject to the approval by a two-thirds vote of the Health Assembly, the Organization may take over from any other international organization or agency whose purpose and activities lie within the field of competence of the Organization such functions, resources and obligations as may be con- ferred upon the Organization by international agreement or by mutually acceptable arrangements entered into between the competent authorities of the respective organizations. CHAPTER XVII \u2013 AMENDMENTS",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_73",
+      "title": "Article 73",
+      "text": "Article 73 Texts of proposed amendments to this Constitution shall be communi- cated by the Director-General to Members at least six months in advance of their consideration by the Health Assembly. Amendments shall come into force for all Members when adopted by a two-thirds vote of the Health Assembly and accepted by two-thirds of the Members in accordance with their respective constitutional processes. CONSTITUTION OF WHO 17 CHAPTER XVIII \u2013 INTERPRETATION",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_75",
+      "title": "Article 75",
+      "text": "Article 75 Any question or dispute concerning the interpretation or application of this Constitution which is not settled by negotiation or by the Health Assembly shall be referred to the International Court of Justice in conform- ity with the Statute of the Court, unless the parties concerned agree on another mode of settlement.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_76",
+      "title": "Article 76",
+      "text": "Article 76 Upon authorization by the General Assembly of the United Nations or upon authorization in accordance with any agreement between the Organi- zation and the United Nations, the Organization may request the Interna- tional Court of Justice for an advisory opinion on any legal question arising within the competence of the Organization.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_77",
+      "title": "Article 77",
+      "text": "Article 77 The Director-General may appear before the Court on behalf of the Organization in connexion with any proceedings arising out of any such request for an advisory opinion. He shall make arrangements for the pres- entation of the case before the Court, including arrangements for the argu- ment of different views on the question. CHAPTER XIX \u2013 ENTRY-INTO-FORCE",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_79",
+      "title": "Article 79",
+      "text": "Article 79 (a) States may become parties to this Constitution by: (i) signature without reservation as to approval; (ii) signature subject to approval followed by acceptance; or (iii) acceptance. 1 The amendment to this Article adopted by the Thirty-first World Health Assembly (resolution WHA31.18) has not yet come into force. 18 BASIC DOCUMENTS (b) Acceptance shall be effected by the deposit of a formal instrument with the Secretary-General of the United Nations.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_81",
+      "title": "Article 81",
+      "text": "Article 81 In accordance with Article 102 of the Charter of the United Nations, the Secretary-General of the United Nations will register this Constitution when it has been signed without reservation as to approval on behalf of one State or upon deposit of the first instrument of acceptance.",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    },
+    {
+      "item_id": "ART_82",
+      "title": "Article 82",
+      "text": "Article 82 The Secretary-General of the United Nations will inform States parties to this Constitution of the date when it has come into force. He will also inform them of the dates when other States have become parties to this Constitution. IN FAITH WHEREOF the undersigned representatives, having been duly authorized for that purpose, sign this Constitution. DONE in the City of New York this twenty-second day of July 1946, in a single copy in the Chinese, English, French, Russian and Spanish lan- guages, each text being equally authentic. The original texts shall be depos- ited in the archives of the United Nations. The Secretary-General of the United Nations will send certified copies to each of the Governments repre- sented at the Conference. __________",
+      "parent": null,
+      "tags": [
+        "who",
+        "constitution",
+        "article"
+      ],
+      "metadata": {
+        "official_url": "https://www.who.int/about/governance/constitution",
+        "pdf_url": "https://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf?ua=1"
+      }
+    }
+  ],
+  "definitions": [],
+  "mappings": [],
+  "applicability_rules": [
+    {
+      "sector": "healthcare",
+      "subsector": null,
+      "applies": 1,
+      "confidence": "definite",
+      "basis_item": "ART_1",
+      "conditions": null,
+      "notes": "WHO constitutional objective applies globally to public health cooperation."
+    }
+  ],
+  "source_registry": {
+    "official_id": "WHO-CONSTITUTION",
+    "official_version": "Consolidated constitution text",
+    "last_fetched": "2026-02-22T07:26:42Z",
+    "last_updated": "2024-01-01",
+    "last_checked": "2026-02-22",
+    "update_frequency": "on_change",
+    "items_expected": 47,
+    "items_parsed": 47,
+    "quality_status": "complete",
+    "notes": "Parsed from official WHO constitution PDF."
+  }
+}

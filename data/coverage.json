@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0",
+  "mcp": "international-health-law-mcp",
+  "package": "@ansvar/international-health-law-mcp",
+  "generated_on": "2026-02-22",
+  "status": "full_corpus_ingested",
+  "deployment_strategy": "Strategy A (Vercel)",
+  "summary": {
+    "total_sources": 7,
+    "implemented_sources": 7,
+    "planned_tools": 11,
+    "implemented_tools": 11,
+    "items": 609,
+    "definitions": 3,
+    "mappings": 6
+  },
+  "sources": [
+    {
+      "id": "WHO_CONSTITUTION",
+      "name": "Constitution of the World Health Organization",
+      "authority": "World Health Organization",
+      "records_parsed": 47,
+      "ingestion_status": "implemented"
+    },
+    {
+      "id": "WHO_IHR_2005",
+      "name": "International Health Regulations (2005)",
+      "authority": "World Health Organization",
+      "records_parsed": 72,
+      "ingestion_status": "implemented"
+    },
+    {
+      "id": "WHO_FCTC",
+      "name": "WHO Framework Convention on Tobacco Control",
+      "authority": "World Health Organization",
+      "records_parsed": 36,
+      "ingestion_status": "implemented"
+    },
+    {
+      "id": "ICH_GUIDELINES",
+      "name": "ICH Harmonised Guidelines (Q, S, E, M series)",
+      "authority": "International Council for Harmonisation",
+      "records_parsed": 151,
+      "ingestion_status": "implemented"
+    },
+    {
+      "id": "IMDRF_N_SERIES",
+      "name": "IMDRF N-series Medical Device Guidance",
+      "authority": "International Medical Device Regulators Forum",
+      "records_parsed": 28,
+      "ingestion_status": "implemented"
+    },
+    {
+      "id": "DECLARATION_HELSINKI",
+      "name": "World Medical Association Declaration of Helsinki",
+      "authority": "World Medical Association",
+      "records_parsed": 36,
+      "ingestion_status": "implemented"
+    },
+    {
+      "id": "CODEX_ALIMENTARIUS",
+      "name": "Codex Alimentarius Standards and Codes",
+      "authority": "FAO and WHO Codex Alimentarius Commission",
+      "records_parsed": 239,
+      "ingestion_status": "implemented"
+    }
+  ],
+  "tools": [
+    {
+      "name": "search_health_regulation",
+      "status": "implemented"
+    },
+    {
+      "name": "get_provision",
+      "status": "implemented"
+    },
+    {
+      "name": "get_ich_guideline",
+      "status": "implemented"
+    },
+    {
+      "name": "get_imdrf_guidance",
+      "status": "implemented"
+    },
+    {
+      "name": "check_who_status",
+      "status": "implemented"
+    },
+    {
+      "name": "map_to_national_requirements",
+      "status": "implemented"
+    },
+    {
+      "name": "search_medical_device_requirements",
+      "status": "implemented"
+    },
+    {
+      "name": "build_legal_stance",
+      "status": "implemented"
+    },
+    {
+      "name": "list_sources",
+      "status": "implemented"
+    },
+    {
+      "name": "about",
+      "status": "implemented"
+    },
+    {
+      "name": "check_data_freshness",
+      "status": "implemented"
+    }
+  ]
+}

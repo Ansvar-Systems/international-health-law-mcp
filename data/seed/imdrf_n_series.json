@@ -1,0 +1,578 @@
+{
+  "id": "IMDRF_N_SERIES",
+  "full_name": "IMDRF N-series Medical Device Guidance",
+  "identifier": "IMDRF-N",
+  "authority": "International Medical Device Regulators Forum",
+  "jurisdiction": "INTL",
+  "instrument_type": "guideline",
+  "category": "medical-devices",
+  "source_url": "https://www.imdrf.org/documents",
+  "effective_date": null,
+  "items": [
+    {
+      "item_id": "N13",
+      "title": "In Vitro Diagnostic Medical Device Regulatory Submission Table of Contents (IVD ToC)",
+      "text": "In Vitro Diagnostic Medical Device Regulatory Submission Table of Contents (IVD ToC) IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/vitro-diagnostic-medical-device-regulatory-submission-table-contents-ivd-toc",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/2024-06/IMDRF%20N13%20%28IVD%20ToC%29%20RPS%20WG%20Ed%204%20Final%20v4.pdf",
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-190321-ivd-mdma-toc-n13.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N14",
+      "title": "Medical Devices: Post-Market Surveillance: National Competent Authority Report Exchange Criteria and Report Form",
+      "text": "Medical Devices: Post-Market Surveillance: National Competent Authority Report Exchange Criteria and Report Form In 2024, this document was reclassified as an Information Document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/medical-devices-post-market-surveillance-national-competent-authority-report-exchange-criteria-and-report-form",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/2024-07/IMDRF%20NCAR%20WG%20N14Final%202023_edition4.pdf",
+          "https://www.imdrf.org/sites/default/files/2025-04/IMDRF%20NCAR%20WG%20N14Final%202022_1.pdf",
+          "https://www.imdrf.org/sites/default/files/2025-04/IMDRF%20NCAR%20WG%20N14Final%202025_edition5_0.pdf",
+          "https://www.imdrf.org/sites/default/files/2025-04/IMDRF%20NCAR%20WG%20N14Final%202025_edition5v2.pdf",
+          "https://www.imdrf.org/sites/default/files/2025-04/imdrf-tech-150326-pms-ncar-150410_1.pdf",
+          "https://www.imdrf.org/sites/default/files/2025-04/imdrf-tech-170921-pms-ncar-n14-r2_0.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N27",
+      "title": "Assembly and Technical Guide for IMDRF Table of Contents Submissions (Archived)",
+      "text": "Assembly and Technical Guide for IMDRF Table of Contents Submissions (Archived) IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/assembly-and-technical-guide-imdrf-table-contents-submissions-archived",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-190124-assembly-technical-guide-toc-submissions-n27.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N29",
+      "title": "Clarification of the Term \"Legal Entity\" for MDSAP Recognition Purposes",
+      "text": "Clarification of the Term \"Legal Entity\" for MDSAP Recognition Purposes IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/clarification-term-legal-entity-mdsap-recognition-purposes",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/procedural/imdrf-proc-151002-legal-entity-n29.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N30",
+      "title": "Medical Devices: Post-Market Surveillance -IMDRF National Competent Authority Report (NCAR) Pilot Plan",
+      "text": "Medical Devices: Post-Market Surveillance -IMDRF National Competent Authority Report (NCAR) Pilot Plan IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/medical-devices-post-market-surveillance-imdrf-national-competent-authority-report-ncar-pilot-plan",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/procedural/imdrf-proc-151002-ncar-pilot-plan-n30.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N31",
+      "title": "Medical Devices: Post Market Surveillance: National Competent Authority Report (NCAR) Pilot Plan; Implementing Material",
+      "text": "Medical Devices: Post Market Surveillance: National Competent Authority Report (NCAR) Pilot Plan; Implementing Material IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/medical-devices-post-market-surveillance-national-competent-authority-report-ncar-pilot-plan-implementing-material",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/procedural/imdrf-proc-151002-ncar-implementation-material-n31.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N32",
+      "title": "Strategic Assessment of Electronic Submission Messaging Formats",
+      "text": "Strategic Assessment of Electronic Submission Messaging Formats IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/strategic-assessment-electronic-submission-messaging-formats",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/procedural/imdrf-proc-151002-rps-strategic-assessment-n32.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N34",
+      "title": "Statement regarding Use of ISO 14971:2007 \"Medical devices - Application of risk management to medical devices\"",
+      "text": "Statement regarding Use of ISO 14971:2007 \"Medical devices - Application of risk management to medical devices\" IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/statement-regarding-use-iso-149712007-medical-devices-application-risk-management-medical-devices",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/procedural/imdrf-proc-151002-risk-management-n34.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N35",
+      "title": "Statement regarding Use of IEC 62304:2006 \"Medical device software - Software life cycle processes\"",
+      "text": "Statement regarding Use of IEC 62304:2006 \"Medical device software - Software life cycle processes\" IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/statement-regarding-use-iec-623042006-medical-device-software-software-life-cycle-processes",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/procedural/imdrf-proc-151002-medical-device-software-n35.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N36",
+      "title": "Statement regarding Use of IEC 60601-1 \"Medical electrical equipment - Part 1: General requirements for basic safety and essential performance\"",
+      "text": "Statement regarding Use of IEC 60601-1 \"Medical electrical equipment - Part 1: General requirements for basic safety and essential performance\" IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/statement-regarding-use-iec-60601-1-medical-electrical-equipment-part-1-general-requirements-basic-safety-and-essential-performance",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/procedural/imdrf-proc-151002-medical-electrical-n36.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N37",
+      "title": "Statement regarding Use of ISO 10993-1:2009 \"Biological evaluation of medical devices - Part 1: Evaluation and testing within a risk management process\"",
+      "text": "Statement regarding Use of ISO 10993-1:2009 \"Biological evaluation of medical devices - Part 1: Evaluation and testing within a risk management process\" IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/statement-regarding-use-iso-10993-12009-biological-evaluation-medical-devices-part-1-evaluation-and-testing-within-risk-management-process",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/procedural/imdrf-proc-151002-biological-evaluation-n37.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N38",
+      "title": "Statement regarding Use of ISO 11137-1:2006 \"Sterilization of health care products - Radiation - Part 1: Requirements for development, validation and routine control of a sterilization process for medical devices\"",
+      "text": "Statement regarding Use of ISO 11137-1:2006 \"Sterilization of health care products - Radiation - Part 1: Requirements for development, validation and routine control of a sterilization process for medical devices\" IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/statement-regarding-use-iso-11137-12006-sterilization-health-care-products-radiation-part-1-requirements-development-validation-and-routine-control-sterilization-process-medical-devices",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/procedural/imdrf-proc-151002-use-of-standards-n38.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N39",
+      "title": "IMDRF Strategic Plan 2026-2030",
+      "text": "IMDRF Strategic Plan 2026-2030 IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/imdrf-strategic-plan-2026-2030",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/2025-12/IMDRF%20Strategic%20Plan%202026-2030_FINAL_N91.pdf",
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/procedural/imdrf-proc-151002-strategic-plan-2020.pdf",
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/procedural/imdrf-proc-n39-strategic-plan-200925.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N41",
+      "title": "Software as a Medical Device (SaMD): Clinical Evaluation",
+      "text": "Software as a Medical Device (SaMD): Clinical Evaluation This document has been translated to Spanish by an external agency. The translation may be accessed from the agency's site by the link below. Please note that translations are for reference purposes only and responsibility for the accuracy of the translation belongs to the translating agency . Translation by IACRO into Spanish may be found here .",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/software-medical-device-samd-clinical-evaluation",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-170921-samd-n41-clinical-evaluation_1.pdf",
+          "https://www.interamericancoalition-medtech.org/regulatory-convergence/wp-content/uploads/sites/4/2022/02/imdrf-tech-170921-samd-n41-clinical-evaluation_1._ESP_Final_Version.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N43",
+      "title": "Terminologies for Categorized Adverse Event Reporting (AER): terms, terminology and codes",
+      "text": "Terminologies for Categorized Adverse Event Reporting (AER): terms, terminology and codes The Excel version of the 2025 release of the IMDRF terminology is a single file instead of a separate file for each annex. Each annex is provided in a separate sheet within the main file. The structure and layout of each annex sheet is unchanged from the last release. IMDRF/AE WG/N43 FINAL:2020 (below) is the guidance document outlining the concept behind the IMDRF Terminology including terms, definitions and IMDRF alpha-numerical codes to be used for Adverse Event (AE) reporting concerning medical devices and in vitro diagnostics. Annexes A-G provide the detailed terms, definitions and IMDRF alpha-numerical codes in JSON format. Appendix B is the log documenting all changes in the codes & terms. This file is updated annually to highlight differences from the previous maintenance period. Release Notes provides notes on the most current release for the terms, definitions and IMDRF alpha-numerical codes detailed in the documents above.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/terminologies-categorized-adverse-event-reporting-aer-terms-terminology-and-codes",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/archived/technical/imdrf-tech-190321-aer-n43-r3.pdf",
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-200318-ae-terminologies-n43.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N44",
+      "title": "Maintenance of IMDRF AE Terminologies",
+      "text": "Maintenance of IMDRF AE Terminologies IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/maintenance-imdrf-ae-terminologies",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/2022-03/imdrf-proc-200318-ae-terminologies-n44.pdf",
+          "https://www.imdrf.org/sites/default/files/2022-03/imdrf-proc-ae-terminologies-n44-edition2_0.pdf",
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/archived/information/imdrf-proc-170316-ae-terminologies-n44.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N46",
+      "title": "Tools for Assessing the Usability of Registries in Support of Regulatory Decision-Making",
+      "text": "Tools for Assessing the Usability of Registries in Support of Regulatory Decision-Making IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/tools-assessing-usability-registries-support-regulatory-decision-making-0",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/2024-06/imdrf-tech-180327-usability-tools-n46.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N47",
+      "title": "Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices",
+      "text": "Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices The prior version of this document (see Archived Versions) has been translated to Spanish and Portuguese by external agencies. The translations may be accessed from those external sites by the links below. Please note that translations are for reference purposes only and responsibility for the accuracy of the translation belongs to the translating agency . Translation by PAHO into Spanish may be found here . Translation by PAHO into Portuguese may be found here .",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/essential-principles-safety-and-performance-medical-devices-and-ivd-medical-devices",
+        "pdf_links": [
+          "https://iris.paho.org/bitstream/handle/10665.2/56051/OPSHSSMT220004_spa.pdf?sequence=1&isAllowed=y",
+          "https://iris.paho.org/bitstream/handle/10665.2/56713/OPASHSSMT220004_por.pdf?sequence=1&isAllowed=y",
+          "https://www.imdrf.org/sites/default/files/2024-06/IMDRF%20GRRP%20WG%20N47%20%28Edition%202%29%20%285%29.pdf",
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-181031-grrp-essential-principles-n47.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N49",
+      "title": "Definitions for Personalized Medical Devices",
+      "text": "Definitions for Personalized Medical Devices IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/definitions-personalized-medical-devices",
+        "pdf_links": [
+          "https://iris.paho.org/bitstream/handle/10665.2/56041/OPSHSSMT220005_spa.pdf?sequence=1&isAllowed=y",
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-181018-pmd-definitions-n49.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N50",
+      "title": "Round 2, RPS Beta Testing Report",
+      "text": "Round 2, RPS Beta Testing Report IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/round-2-rps-beta-testing-report",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/procedural/imdrf-proc-180727-rps-beta-testing-n50.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N51",
+      "title": "Optimizing Standards for Regulatory Use",
+      "text": "Optimizing Standards for Regulatory Use This document has been translated to Spanish by an external agency. The translation may be accessed from the agency's site by the link below. Please note that translations are for reference purposes only and the responsibility for the accuracy of the translation belongs to translating agency . Translation by PAHO into Spanish may be found here .",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/optimizing-standards-regulatory-use",
+        "pdf_links": [
+          "https://iris.paho.org/bitstream/handle/10665.2/56058/OPSHSSMT220006_spa.pdf?sequence=1&isAllowed=y",
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-181105-optimizing-standards-n51.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N53",
+      "title": "Use of UDI Data Elements across different IMDRF Jurisdictions",
+      "text": "Use of UDI Data Elements across different IMDRF Jurisdictions IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/use-udi-data-elements-across-different-imdrf-jurisdictions",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/procedural/imdrf-proc-190321-udide-n53.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N55",
+      "title": "Clinical Evidence - Key Definitions and Concepts",
+      "text": "Clinical Evidence - Key Definitions and Concepts IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/clinical-evidence-key-definitions-and-concepts",
+        "pdf_links": [
+          "https://iris.paho.org/bitstream/handle/10665.2/56043/OPSHSSMT220008_spa.pdf?sequence=1&isAllowed=y",
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-191010-mdce-n55.pdf",
+          "https://www.interamericancoalition-medtech.org/regulatory-convergence/wp-content/uploads/sites/4/2022/05/Clinical-Evidence_ESPAN~OL-Rev-Final.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N56",
+      "title": "Clinical Evaluation",
+      "text": "Clinical Evaluation This document has been translated to Spanish by an external agency. The translation may be accessed from the agency's site by the link below. Please note that translations are for reference purposes only and responsibility for the accuracy of the translation belongs to the translating agency . Translation by IACRO into Spanish may be found here .",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/clinical-evaluation",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-191010-mdce-n56.pdf",
+          "https://www.interamericancoalition-medtech.org/regulatory-convergence/wp-content/uploads/sites/4/2022/05/Clinical-Evaluation_ESPAN%CC%83OL-Rev-Final.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N57",
+      "title": "Clinical Investigation",
+      "text": "Clinical Investigation This document has been translated to Spanish by external agencies. The translations may be accessed from those external sites by the links below. Please note that translations are for reference purposes only and the responsibility for the accuracy of the translation belongs to the translating agency . Translation by PAHO into Spanish may be found here . Translation by IACRO into Spanish may be found here .",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/clinical-investigation",
+        "pdf_links": [
+          "https://iris.paho.org/bitstream/handle/10665.2/56254/OPSHSSMT220024_spa.pdf?sequence=1&isAllowed=y",
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-191010-mdce-n57.pdf",
+          "https://www.interamericancoalition-medtech.org/regulatory-convergence/wp-content/uploads/sites/4/2022/05/Clinical-Investigation_ESPAN~OL-Rev-Final.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N58",
+      "title": "Personalized Medical Devices - Regulatory Pathways",
+      "text": "Personalized Medical Devices - Regulatory Pathways IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/personalized-medical-devices-regulatory-pathways",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/2023-09/IMDRF_PMD%20WG_N58%20FINAL_2023%20%28Edition%202%29_0.pdf",
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-200318-pmd-rp-n58.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N59",
+      "title": "Requirements for Regulatory Authority Recognition of Conformity Assessment Bodies Conducting Medical Device Regulatory Reviews",
+      "text": "Requirements for Regulatory Authority Recognition of Conformity Assessment Bodies Conducting Medical Device Regulatory Reviews The previous version of this document (see Archived Version) has been translated to Spanish by an external agency. The translation may be accessed from the agency's site by the link below. Please note that translations are for reference purposes only and responsibility for the accuracy of the translation belongs to the translating agency . Translation by PAHO into Spanish may be found here .",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/requirements-regulatory-authority-recognition-conformity-assessment-bodies-conducting-medical-device-regulatory-reviews",
+        "pdf_links": [
+          "https://iris.paho.org/bitstream/handle/10665.2/56255/OPSHSSMT220025_spa.pdf?sequence=1&isAllowed=y",
+          "https://www.imdrf.org/sites/default/files/2024-04/IMDRF%20GRRP%20WG%20N59%20%28Edition%202%29.pdf",
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-200318-rrar-cab-cmdrr-n59.pdf"
+        ]
+      }
+    },
+    {
+      "item_id": "N60",
+      "title": "Principles and Practices for Medical Device Cybersecurity",
+      "text": "Principles and Practices for Medical Device Cybersecurity IMDRF N-series guidance document.",
+      "parent": null,
+      "tags": [
+        "imdrf",
+        "medical-device",
+        "guidance"
+      ],
+      "metadata": {
+        "official_url": "https://www.imdrf.org/documents/principles-and-practices-medical-device-cybersecurity",
+        "pdf_links": [
+          "https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-200318-pp-mdc-n60.pdf"
+        ]
+      }
+    }
+  ],
+  "definitions": [],
+  "mappings": [
+    {
+      "framework": "EU_MDR_2017_745",
+      "control_id": "ANNEX_I_CHAPTER_II",
+      "control_name": "Design and manufacture requirements",
+      "target_source": "IMDRF_N_SERIES",
+      "target_items": [
+        "N47",
+        "N60"
+      ],
+      "coverage": "related",
+      "notes": "IMDRF principles align with lifecycle safety/performance and cybersecurity expectations.",
+      "country": "EU",
+      "jurisdiction": "regional"
+    },
+    {
+      "framework": "US_FDA_21CFR820",
+      "control_id": "820.100",
+      "control_name": "Corrective and preventive action",
+      "target_source": "IMDRF_N_SERIES",
+      "target_items": [
+        "N60"
+      ],
+      "coverage": "partial",
+      "notes": "Cybersecurity vulnerability handling supports CAPA expectations.",
+      "country": "US",
+      "jurisdiction": "national"
+    }
+  ],
+  "applicability_rules": [
+    {
+      "sector": "medical-devices",
+      "subsector": "software",
+      "applies": 1,
+      "confidence": "definite",
+      "basis_item": "N41",
+      "conditions": {
+        "product_is_samd": true
+      },
+      "notes": "IMDRF SaMD definitions and clinical evaluation concepts apply."
+    },
+    {
+      "sector": "medical-devices",
+      "subsector": "cybersecurity",
+      "applies": 1,
+      "confidence": "definite",
+      "basis_item": "N60",
+      "conditions": null,
+      "notes": "Lifecycle cybersecurity principles apply to connected devices."
+    }
+  ],
+  "source_registry": {
+    "official_id": "IMDRF-N",
+    "official_version": "IMDRF document library (N-series filtered)",
+    "last_fetched": "2026-02-22T07:27:07Z",
+    "last_updated": "2026-02-22",
+    "last_checked": "2026-02-22",
+    "update_frequency": "on_change",
+    "items_expected": 28,
+    "items_parsed": 28,
+    "quality_status": "complete",
+    "notes": "Parsed N-series subset from IMDRF library; detected 28 unique N-documents."
+  }
+}

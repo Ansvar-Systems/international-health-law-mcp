@@ -1,0 +1,4340 @@
+{
+  "id": "CODEX_ALIMENTARIUS",
+  "full_name": "Codex Alimentarius Standards and Codes",
+  "identifier": "CODEX",
+  "authority": "FAO and WHO Codex Alimentarius Commission",
+  "jurisdiction": "INTL",
+  "instrument_type": "standard",
+  "category": "food-safety",
+  "source_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+  "effective_date": null,
+  "items": [
+    {
+      "item_id": "CXS_1_1985",
+      "title": "CXS 1-1985 - General Standard for the Labelling of Pre-packaged Foods",
+      "text": "General Standard for the Labelling of Pre-packaged Foods. Committee: CCFL. Last modified: 2024.",
+      "parent": "CCFL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 1-1985",
+        "committee": "CCFL",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+1-1985/CXS_001e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_103_1981",
+      "title": "CXS 103-1981 - Standard for Quick Frozen Blueberries",
+      "text": "Standard for Quick Frozen Blueberries. Committee: CCPFV. Last modified: 2022.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 103-1981",
+        "committee": "CCPFV",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+103-1981/CXS_103e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_105_1981",
+      "title": "CXS 105-1981 - Standard for Cocoa powders (cocoas) and dry mixtures of cocoa and sugars",
+      "text": "Standard for Cocoa powders (cocoas) and dry mixtures of cocoa and sugars. Committee: CCCPC. Last modified: 2025.",
+      "parent": "CCCPC",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 105-1981",
+        "committee": "CCCPC",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+105-1981/CXS_105e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_106_1983",
+      "title": "CXS 106-1983 - General Standard for Irradiated Foods",
+      "text": "General Standard for Irradiated Foods. Committee: CCFH. Last modified: 2003.",
+      "parent": "CCFH",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 106-1983",
+        "committee": "CCFH",
+        "last_modified": "2003",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+106-1983/CXS_106e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_107_1981",
+      "title": "CXS 107-1981 - General Standard for the Labelling of Food Additives when sold as such",
+      "text": "General Standard for the Labelling of Food Additives when sold as such. Committee: CCFA. Last modified: 2016.",
+      "parent": "CCFA",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 107-1981",
+        "committee": "CCFA",
+        "last_modified": "2016",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+107-1981/CXS_107e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_108_1981",
+      "title": "CXS 108-1981 - Standard for Natural Mineral Waters",
+      "text": "Standard for Natural Mineral Waters. Committee: CCNMW. Last modified: 2019.",
+      "parent": "CCNMW",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 108-1981",
+        "committee": "CCNMW",
+        "last_modified": "2019",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+108-1981/CXS_108e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_115_1981",
+      "title": "CXS 115-1981 - Standard for Pickled Cucumbers (Cucumber Pickles)",
+      "text": "Standard for Pickled Cucumbers (Cucumber Pickles). Committee: CCPFV. Last modified: 2025.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 115-1981",
+        "committee": "CCPFV",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+115-1981/CXS_115e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_117_1981",
+      "title": "CXS 117-1981 - Standard for Bouillons and Consomm\u00e9s",
+      "text": "Standard for Bouillons and Consomm\u00e9s. Committee: CCSB. Last modified: 2021.",
+      "parent": "CCSB",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 117-1981",
+        "committee": "CCSB",
+        "last_modified": "2021",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+117-1981/CXS_117e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_118_1979",
+      "title": "CXS 118-1979 - Standard for Foods for Special Dietary Use for Persons Intolerant to Gluten",
+      "text": "Standard for Foods for Special Dietary Use for Persons Intolerant to Gluten. Committee: CCNFSDU. Last modified: 2015.",
+      "parent": "CCNFSDU",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 118-1979",
+        "committee": "CCNFSDU",
+        "last_modified": "2015",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+118-1979/CXS_118e_2015.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_119_1981",
+      "title": "CXS 119-1981 - Standard for Canned Finfish",
+      "text": "Standard for Canned Finfish. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 119-1981",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+119-1981/CXS_119e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_12_1981",
+      "title": "CXS 12-1981 - Standard for Honey",
+      "text": "Standard for Honey. Committee: CCS. Last modified: 2022.",
+      "parent": "CCS",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 12-1981",
+        "committee": "CCS",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+12-1981/CXS_012e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_13_1981",
+      "title": "CXS 13-1981 - Standard for Preserved Tomatoes",
+      "text": "Standard for Preserved Tomatoes. Committee: CCPFV. Last modified: 2023.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 13-1981",
+        "committee": "CCPFV",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+13-1981/CXS_013e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_131_1981",
+      "title": "CXS 131-1981 - Standard for Unshelled Pistachio Nuts",
+      "text": "Standard for Unshelled Pistachio Nuts. Committee: CCPFV. Last modified: 2023.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 131-1981",
+        "committee": "CCPFV",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+131-1981/CXS_131e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_141_1983",
+      "title": "CXS 141-1983 - Standard for Cocoa (Cacao) Mass (Cocoa/Chocolate Liquor) and Cocoa Cake",
+      "text": "Standard for Cocoa (Cacao) Mass (Cocoa/Chocolate Liquor) and Cocoa Cake. Committee: CCCPC. Last modified: 2025.",
+      "parent": "CCCPC",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 141-1983",
+        "committee": "CCCPC",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+141-1983/CXS_141e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_145_1985",
+      "title": "CXS 145-1985 - Standard for Canned Chestnuts and Canned Chestnut Pur\u00e9e",
+      "text": "Standard for Canned Chestnuts and Canned Chestnut Pur\u00e9e. Committee: CCPFV. Last modified: 2022.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 145-1985",
+        "committee": "CCPFV",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+145-1985/CXS_145e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_146_1985",
+      "title": "CXS 146-1985 - General Standard for the Labelling of and Claims for Prepackaged Foods for Special Dietary Uses",
+      "text": "General Standard for the Labelling of and Claims for Prepackaged Foods for Special Dietary Uses. Committee: CCFL. Last modified: 2009.",
+      "parent": "CCFL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 146-1985",
+        "committee": "CCFL",
+        "last_modified": "2009",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+146-1985/CXS_146e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_150_1985",
+      "title": "CXS 150-1985 - Standard for Food Grade Salt",
+      "text": "Standard for Food Grade Salt. Committee: CCFA. Last modified: 2025.",
+      "parent": "CCFA",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 150-1985",
+        "committee": "CCFA",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+150-1985/CXS_150e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_151_1985",
+      "title": "CXS 151-1985 - Standard for Gari",
+      "text": "Standard for Gari. Committee: CCCPL. Last modified: 2023.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 151-1985",
+        "committee": "CCCPL",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+151-1985/CXS_151e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_152_1985",
+      "title": "CXS 152-1985 - Standard for Wheat Flour",
+      "text": "Standard for Wheat Flour. Committee: CCCPL. Last modified: 2023.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 152-1985",
+        "committee": "CCCPL",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+152-1985/CXS_152e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_153_1985",
+      "title": "CXS 153-1985 - Standard for Maize (Corn)",
+      "text": "Standard for Maize (Corn). Committee: CCCPL. Last modified: 2019.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 153-1985",
+        "committee": "CCCPL",
+        "last_modified": "2019",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+153-1985/CXS_153e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_154_1985",
+      "title": "CXS 154-1985 - Standard for Whole Maize (Corn) Meal",
+      "text": "Standard for Whole Maize (Corn) Meal. Committee: CCCPL. Last modified: 2023.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 154-1985",
+        "committee": "CCCPL",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+154-1985/CXS_154e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_155_1985",
+      "title": "CXS 155-1985 - Standard for Degermed Maize (Corn) Meal and Maize (Corn) Grits",
+      "text": "Standard for Degermed Maize (Corn) Meal and Maize (Corn) Grits. Committee: CCCPL. Last modified: 2023.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 155-1985",
+        "committee": "CCCPL",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+155-1985/CXS_155e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_156_1987",
+      "title": "CXS 156-1987 - Standard for Follow-up formula for Older Infants and Product for Young Children",
+      "text": "Standard for Follow-up formula for Older Infants and Product for Young Children. Committee: CCNFSDU. Last modified: 2023.",
+      "parent": "CCNFSDU",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 156-1987",
+        "committee": "CCNFSDU",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+156-1987/CXS_156e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_160_1987",
+      "title": "CXS 160-1987 - Standard for Mango Chutney",
+      "text": "Standard for Mango Chutney. Committee: CCPFV. Last modified: 2023.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 160-1987",
+        "committee": "CCPFV",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+160-1987/CXS_160e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_163_1987",
+      "title": "CXS 163-1987 - Standard for Wheat Protein Products Including Wheat Gluten",
+      "text": "Standard for Wheat Protein Products Including Wheat Gluten. Committee: CCVP. Last modified: 2022.",
+      "parent": "CCVP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 163-1987",
+        "committee": "CCVP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+163-1987/CXS_163e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_165_1989",
+      "title": "CXS 165-1989 - Standard for Quick Frozen Blocks of Fish Fillets, Minced Fish Flesh and Mixtures of Fillets and Minced Fish Flesh",
+      "text": "Standard for Quick Frozen Blocks of Fish Fillets, Minced Fish Flesh and Mixtures of Fillets and Minced Fish Flesh. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 165-1989",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+165-1989/CXS_165e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_166_1989",
+      "title": "CXS 166-1989 - Standard for Quick Frozen Fish Sticks (Fish Fingers), Fish Portions and Fish Fillets - Breaded or in Batter",
+      "text": "Standard for Quick Frozen Fish Sticks (Fish Fingers), Fish Portions and Fish Fillets - Breaded or in Batter. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 166-1989",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+166-1989/CXS_166e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_167_1989",
+      "title": "CXS 167-1989 - Standard for Salted Fish and Dried Salted Fish of the Gadidae Family of Fishes",
+      "text": "Standard for Salted Fish and Dried Salted Fish of the Gadidae Family of Fishes. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 167-1989",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+167-1989/CXS_167e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_169_1989",
+      "title": "CXS 169-1989 - Standard for Whole and Decorticated Pearl Millet Grains",
+      "text": "Standard for Whole and Decorticated Pearl Millet Grains. Committee: CCCPL. Last modified: 2023.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 169-1989",
+        "committee": "CCCPL",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+169-1989/CXS_169e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_17_1981",
+      "title": "CXS 17-1981 - Standard for Canned Applesauce",
+      "text": "Standard for Canned Applesauce. Committee: CCPFV. Last modified: 2022.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 17-1981",
+        "committee": "CCPFV",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+17-1981/CXS_017e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_170_1989",
+      "title": "CXS 170-1989 - Standard for Pearl Millet Flour",
+      "text": "Standard for Pearl Millet Flour. Committee: CCCPL. Last modified: 2023.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 170-1989",
+        "committee": "CCCPL",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+170-1989/CXS_170e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_171_1989",
+      "title": "CXS 171-1989 - Standard for Certain Pulses",
+      "text": "Standard for Certain Pulses. Committee: CCCPL. Last modified: 1995.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 171-1989",
+        "committee": "CCCPL",
+        "last_modified": "1995",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+171-1989/CXS_171e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_172_1989",
+      "title": "CXS 172-1989 - Standard for Sorghum Grains",
+      "text": "Standard for Sorghum Grains. Committee: CCCPL. Last modified: 2023.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 172-1989",
+        "committee": "CCCPL",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+172-1989/CXS_172e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_173_1989",
+      "title": "CXS 173-1989 - Standard for Sorghum Flour",
+      "text": "Standard for Sorghum Flour. Committee: CCCPL. Last modified: 2023.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 173-1989",
+        "committee": "CCCPL",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+173-1989/CXS_173e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_174_1989",
+      "title": "CXS 174-1989 - General Standard for Vegetable Protein Products (VPP)",
+      "text": "General Standard for Vegetable Protein Products (VPP). Committee: CCVP. Last modified: 2022.",
+      "parent": "CCVP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 174-1989",
+        "committee": "CCVP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+174-1989/CXS_174e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_175_1989",
+      "title": "CXS 175-1989 - Standard for Soy Protein Products",
+      "text": "Standard for Soy Protein Products. Committee: CCVP. Last modified: 2022.",
+      "parent": "CCVP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 175-1989",
+        "committee": "CCVP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+175-1989/CXS_175e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_176_1989",
+      "title": "CXS 176-1989 - Standard for Edible Cassava Flour",
+      "text": "Standard for Edible Cassava Flour. Committee: CCCPL. Last modified: 2025.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 176-1989",
+        "committee": "CCCPL",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+176-1989/CXS_176e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_177_1991",
+      "title": "CXS 177-1991 - Standard for Desiccated Coconut",
+      "text": "Standard for Desiccated Coconut. Committee: CCPFV. Last modified: 2023.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 177-1991",
+        "committee": "CCPFV",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+177-1991/CXS_177e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_178_1991",
+      "title": "CXS 178-1991 - Standard for Durum Wheat Semolina and Durum Wheat Flour",
+      "text": "Standard for Durum Wheat Semolina and Durum Wheat Flour. Committee: CCCPL. Last modified: 2023.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 178-1991",
+        "committee": "CCCPL",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+178-1991/CXS_178e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_180_1991",
+      "title": "CXS 180-1991 - Standard for Labelling of and Claims for Foods for Special Medical Purposes",
+      "text": "Standard for Labelling of and Claims for Foods for Special Medical Purposes. Committee: CCNFSDU. Last modified: 1991.",
+      "parent": "CCNFSDU",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 180-1991",
+        "committee": "CCNFSDU",
+        "last_modified": "1991",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+180-1991/CXS_180e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_181_1991",
+      "title": "CXS 181-1991 - Standard for Formula Foods for Use in Weight Control Diets",
+      "text": "Standard for Formula Foods for Use in Weight Control Diets. Committee: CCNFSDU. Last modified: 2023.",
+      "parent": "CCNFSDU",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 181-1991",
+        "committee": "CCNFSDU",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+181-1991/CXS_181e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_182_1993",
+      "title": "CXS 182-1993 - Standard for Pineapples",
+      "text": "Standard for Pineapples. Committee: CCFFV. Last modified: 2011.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 182-1993",
+        "committee": "CCFFV",
+        "last_modified": "2011",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+182-1993/CXS_182e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_183_1993",
+      "title": "CXS 183-1993 - Standard for Papaya",
+      "text": "Standard for Papaya. Committee: CCFFV. Last modified: 2011.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 183-1993",
+        "committee": "CCFFV",
+        "last_modified": "2011",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+183-1993/CXS_183e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_184_1993",
+      "title": "CXS 184-1993 - Standard for Mangoes",
+      "text": "Standard for Mangoes. Committee: CCFFV. Last modified: 2005.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 184-1993",
+        "committee": "CCFFV",
+        "last_modified": "2005",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+184-1993/CXS_184e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_185_1993",
+      "title": "CXS 185-1993 - Standard for Nopal",
+      "text": "Standard for Nopal. Committee: CCFFV. Last modified: 2005.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 185-1993",
+        "committee": "CCFFV",
+        "last_modified": "2005",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+185-1993/CXS_185e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_186_1993",
+      "title": "CXS 186-1993 - Standard for Prickly Pear",
+      "text": "Standard for Prickly Pear. Committee: CCFFV. Last modified: 2005.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 186-1993",
+        "committee": "CCFFV",
+        "last_modified": "2005",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+186-1993/CXS_186e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_187_1993",
+      "title": "CXS 187-1993 - Standard for Carambola",
+      "text": "Standard for Carambola. Committee: CCFFV. Last modified: 2005.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 187-1993",
+        "committee": "CCFFV",
+        "last_modified": "2005",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+187-1993/CXS_187e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_188_1993",
+      "title": "CXS 188-1993 - Standard for Baby Corn",
+      "text": "Standard for Baby Corn. Committee: CCFFV. Last modified: 2005.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 188-1993",
+        "committee": "CCFFV",
+        "last_modified": "2005",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+188-1993/CXS_188e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_189_1993",
+      "title": "CXS 189-1993 - Standard for Dried Shark Fins",
+      "text": "Standard for Dried Shark Fins. Committee: CCFFP. Last modified: 2025.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 189-1993",
+        "committee": "CCFFP",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+189-1993/CXS_189e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_19_1981",
+      "title": "CXS 19-1981 - Standard for Edible Fats and Oils not Covered by Individual Standards",
+      "text": "Standard for Edible Fats and Oils not Covered by Individual Standards. Committee: CCFO. Last modified: 2024.",
+      "parent": "CCFO",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 19-1981",
+        "committee": "CCFO",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+19-1981/CXS_019e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_190_1995",
+      "title": "CXS 190-1995 - Standard for Quick Frozen Fish Fillets",
+      "text": "Standard for Quick Frozen Fish Fillets. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 190-1995",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+190-1995/CXS_190e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_191_1995",
+      "title": "CXS 191-1995 - Standard for Quick Frozen Raw Squid",
+      "text": "Standard for Quick Frozen Raw Squid. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 191-1995",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+191-1995/CXS_191e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_192_1995",
+      "title": "CXS 192-1995 - General Standard for Food Additives",
+      "text": "General Standard for Food Additives. Committee: CCFA. Last modified: 2025.",
+      "parent": "CCFA",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 192-1995",
+        "committee": "CCFA",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+192-1995/CXS_192e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_193_1995",
+      "title": "CXS 193-1995 - General Standard for Contaminants and Toxins in Food and Feed",
+      "text": "General Standard for Contaminants and Toxins in Food and Feed. Committee: CCCF. Last modified: 2025.",
+      "parent": "CCCF",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 193-1995",
+        "committee": "CCCF",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+193-1995/CXS_193e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_196_1995",
+      "title": "CXS 196-1995 - Standard for Litchi",
+      "text": "Standard for Litchi. Committee: CCFFV. Last modified: 2011.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 196-1995",
+        "committee": "CCFFV",
+        "last_modified": "2011",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+196-1995/CXS_196e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_197_1995",
+      "title": "CXS 197-1995 - Standard for Avocado",
+      "text": "Standard for Avocado. Committee: CCFFV. Last modified: 2013.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 197-1995",
+        "committee": "CCFFV",
+        "last_modified": "2013",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+197-1995/CXS_197e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_198_1995",
+      "title": "CXS 198-1995 - Standard for Rice",
+      "text": "Standard for Rice. Committee: CCCPL. Last modified: 2025.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 198-1995",
+        "committee": "CCCPL",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+198-1995/CXS_198e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_199_1995",
+      "title": "CXS 199-1995 - Standard for Wheat and Durum Wheat",
+      "text": "Standard for Wheat and Durum Wheat. Committee: CCCPL. Last modified: 2019.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 199-1995",
+        "committee": "CCCPL",
+        "last_modified": "2019",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+199-1995/CXS_199e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_200_1995",
+      "title": "CXS 200-1995 - Standard for Peanuts",
+      "text": "Standard for Peanuts. Committee: CCCPL. Last modified: 2019.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 200-1995",
+        "committee": "CCCPL",
+        "last_modified": "2019",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+200-1995/CXS_200e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_201_1995",
+      "title": "CXS 201-1995 - Standard for Oats",
+      "text": "Standard for Oats. Committee: CCCPL. Last modified: 2019.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 201-1995",
+        "committee": "CCCPL",
+        "last_modified": "2019",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+201-1995/CXS_201e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_202_1995",
+      "title": "CXS 202-1995 - Standard for Couscous",
+      "text": "Standard for Couscous. Committee: CCCPL. Last modified: 1995.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 202-1995",
+        "committee": "CCCPL",
+        "last_modified": "1995",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+202-1995/CXS_202e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_203_1995",
+      "title": "CXS 203-1995 - Standard for Formula Foods for Use in Very Low Energy Diets for Weight Reduction",
+      "text": "Standard for Formula Foods for Use in Very Low Energy Diets for Weight Reduction. Committee: CCNFSDU. Last modified: 2023.",
+      "parent": "CCNFSDU",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 203-1995",
+        "committee": "CCNFSDU",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+203-1995/CXS_203e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_204_1997",
+      "title": "CXS 204-1997 - Standard for Mangosteens",
+      "text": "Standard for Mangosteens. Committee: CCFFV. Last modified: 2005.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 204-1997",
+        "committee": "CCFFV",
+        "last_modified": "2005",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+204-1997/CXS_204e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_205_1997",
+      "title": "CXS 205-1997 - Standard for Bananas",
+      "text": "Standard for Bananas. Committee: CCFFV. Last modified: 2022.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 205-1997",
+        "committee": "CCFFV",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+205-1997/CXS_205e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_206_1999",
+      "title": "CXS 206-1999 - General Standard for the Use of Dairy Terms",
+      "text": "General Standard for the Use of Dairy Terms. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 206-1999",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+206-1999/CXS_206e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_207_1999",
+      "title": "CXS 207-1999 - Standard for Milk Powders and Cream Powder",
+      "text": "Standard for Milk Powders and Cream Powder. Committee: CCMMP. Last modified: 2023.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 207-1999",
+        "committee": "CCMMP",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+207-1999/CXS_207e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_208_1999",
+      "title": "CXS 208-1999 - Group Standard for Cheeses in Brine",
+      "text": "Group Standard for Cheeses in Brine. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 208-1999",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+208-1999/CXS_208e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_210_1999",
+      "title": "CXS 210-1999 - Standard for Named Vegetable Oils",
+      "text": "Standard for Named Vegetable Oils. Committee: CCFO. Last modified: 2024.",
+      "parent": "CCFO",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 210-1999",
+        "committee": "CCFO",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+210-1999/CXS_210e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_211_1999",
+      "title": "CXS 211-1999 - Standard for Named Animal Fats",
+      "text": "Standard for Named Animal Fats. Committee: CCFO. Last modified: 2024.",
+      "parent": "CCFO",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 211-1999",
+        "committee": "CCFO",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+211-1999/CXS_211e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_212_1999",
+      "title": "CXS 212-1999 - Standard for Sugars",
+      "text": "Standard for Sugars. Committee: CCS. Last modified: 2022.",
+      "parent": "CCS",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 212-1999",
+        "committee": "CCS",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+212-1999/CXS_212e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_213_1999",
+      "title": "CXS 213-1999 - Standard for Limes",
+      "text": "Standard for Limes. Committee: CCFFV. Last modified: 2011.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 213-1999",
+        "committee": "CCFFV",
+        "last_modified": "2011",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+213-1999/CXS_213e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_214_1999",
+      "title": "CXS 214-1999 - Standard for Pummelos",
+      "text": "Standard for Pummelos. Committee: CCFFV. Last modified: 2011.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 214-1999",
+        "committee": "CCFFV",
+        "last_modified": "2011",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+214-1999/CXS_214e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_215_1999",
+      "title": "CXS 215-1999 - Standard for Guavas",
+      "text": "Standard for Guavas. Committee: CCFFV. Last modified: 2011.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 215-1999",
+        "committee": "CCFFV",
+        "last_modified": "2011",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+215-1999/CXS_215e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_216_1999",
+      "title": "CXS 216-1999 - Standard for Chayotes",
+      "text": "Standard for Chayotes. Committee: CCFFV. Last modified: 2011.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 216-1999",
+        "committee": "CCFFV",
+        "last_modified": "2011",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+216-1999/CXS_216e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_217_1999",
+      "title": "CXS 217-1999 - Standard for Mexican Limes",
+      "text": "Standard for Mexican Limes. Committee: CCFFV. Last modified: 2011.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 217-1999",
+        "committee": "CCFFV",
+        "last_modified": "2011",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+217-1999/CXS_217e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_218_1999",
+      "title": "CXS 218-1999 - Standard for Ginger",
+      "text": "Standard for Ginger. Committee: CCFFV. Last modified: 2005.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 218-1999",
+        "committee": "CCFFV",
+        "last_modified": "2005",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+218-1999/CXS_218e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_219_1999",
+      "title": "CXS 219-1999 - Standard for Grapefruits",
+      "text": "Standard for Grapefruits. Committee: CCFFV. Last modified: 2011.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 219-1999",
+        "committee": "CCFFV",
+        "last_modified": "2011",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+219-1999/CXS_219e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_220_1999",
+      "title": "CXS 220-1999 - Standard for Longans",
+      "text": "Standard for Longans. Committee: CCFFV. Last modified: 2011.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 220-1999",
+        "committee": "CCFFV",
+        "last_modified": "2011",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+220-1999/CXS_220e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_221_2001",
+      "title": "CXS 221-2001 - Group Standard for Unripened Cheese including Fresh Cheese",
+      "text": "Group Standard for Unripened Cheese including Fresh Cheese. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 221-2001",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+221-2001/CXS_221e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_222_2001",
+      "title": "CXS 222-2001 - Standard for Crackers from Marine and Freshwater Fish, Crustaceans and Molluscan Shellfish",
+      "text": "Standard for Crackers from Marine and Freshwater Fish, Crustaceans and Molluscan Shellfish. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 222-2001",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+222-2001/CXS_222e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_223_2001",
+      "title": "CXS 223-2001 - Standard for Kimchi",
+      "text": "Standard for Kimchi. Committee: CCPFV. Last modified: 2022.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 223-2001",
+        "committee": "CCPFV",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+223-2001/CXS_223e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_224_2001",
+      "title": "CXS 224-2001 - Standard for Tannia",
+      "text": "Standard for Tannia. Committee: CCFFV. Last modified: 2011.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 224-2001",
+        "committee": "CCFFV",
+        "last_modified": "2011",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+224-2001/CXS_224e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_225_2001",
+      "title": "CXS 225-2001 - Standard for Asparagus",
+      "text": "Standard for Asparagus. Committee: CCFFV. Last modified: 2005.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 225-2001",
+        "committee": "CCFFV",
+        "last_modified": "2005",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+225-2001/CXS_225e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_226_2001",
+      "title": "CXS 226-2001 - Standard for Cape Gooseberry",
+      "text": "Standard for Cape Gooseberry. Committee: CCFFV. Last modified: 2011.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 226-2001",
+        "committee": "CCFFV",
+        "last_modified": "2011",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+226-2001/CXS_226e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_227_2001",
+      "title": "CXS 227-2001 - General Standard for Bottled/Packaged Drinking Waters (Other Than Natural Mineral Waters)",
+      "text": "General Standard for Bottled/Packaged Drinking Waters (Other Than Natural Mineral Waters). Committee: CCNMW. Last modified: 2019.",
+      "parent": "CCNMW",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 227-2001",
+        "committee": "CCNMW",
+        "last_modified": "2019",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+227-2001/CXS_227e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_234_1999",
+      "title": "CXS 234-1999 - Recommended Methods of Analysis and Sampling",
+      "text": "Recommended Methods of Analysis and Sampling. Committee: CCMAS. Last modified: 2025.",
+      "parent": "CCMAS",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 234-1999",
+        "committee": "CCMAS",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+234-1999/CXS_234e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_236_2003",
+      "title": "CXS 236-2003 - Standard for Boiled Dried Salted Anchovies",
+      "text": "Standard for Boiled Dried Salted Anchovies. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 236-2003",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+236-2003/CXS_236e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_237_2003",
+      "title": "CXS 237-2003 - Standard for Pitahayas",
+      "text": "Standard for Pitahayas. Committee: CCFFV. Last modified: 2011.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 237-2003",
+        "committee": "CCFFV",
+        "last_modified": "2011",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+237-2003/CXS_237e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_238_2003",
+      "title": "CXS 238-2003 - Standard for Sweet Cassava",
+      "text": "Standard for Sweet Cassava. Committee: CCFFV. Last modified: 2013.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 238-2003",
+        "committee": "CCFFV",
+        "last_modified": "2013",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+238-2003/CXS_238e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_239_2003",
+      "title": "CXS 239-2003 - General Methods of Analysis for Food Additives",
+      "text": "General Methods of Analysis for Food Additives. Committee: CCMAS. Last modified: 2004.",
+      "parent": "CCMAS",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 239-2003",
+        "committee": "CCMAS",
+        "last_modified": "2004",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+239-2003/CXS_239e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_240_2003",
+      "title": "CXS 240-2003 - Standard for Aqueous Coconut Products - Coconut Milk and Coconut Cream",
+      "text": "Standard for Aqueous Coconut Products - Coconut Milk and Coconut Cream. Committee: CCPFV. Last modified: 2024.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 240-2003",
+        "committee": "CCPFV",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+240-2003/CXS_240e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_241_2003",
+      "title": "CXS 241-2003 - Standard for Canned Bamboo Shoots",
+      "text": "Standard for Canned Bamboo Shoots. Committee: CCPFV. Last modified: 2023.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 241-2003",
+        "committee": "CCPFV",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+241-2003/CXS_241e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_242_2003",
+      "title": "CXS 242-2003 - Standard for Canned Stone Fruits",
+      "text": "Standard for Canned Stone Fruits. Committee: CCPFV. Last modified: 2025.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 242-2003",
+        "committee": "CCPFV",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+242-2003/CXS_242e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_243_2003",
+      "title": "CXS 243-2003 - Standard for Fermented Milks",
+      "text": "Standard for Fermented Milks. Committee: CCMMP. Last modified: 2024.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 243-2003",
+        "committee": "CCMMP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+243-2003/CXS_243e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_244_2004",
+      "title": "CXS 244-2004 - Standard for Salted Atlantic Herring and Salted Sprat",
+      "text": "Standard for Salted Atlantic Herring and Salted Sprat. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 244-2004",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+244-2004/CXS_244e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_245_2004",
+      "title": "CXS 245-2004 - Standard for Oranges",
+      "text": "Standard for Oranges. Committee: CCFFV. Last modified: 2011.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 245-2004",
+        "committee": "CCFFV",
+        "last_modified": "2011",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+245-2004/CXS_245e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_246_2005",
+      "title": "CXS 246-2005 - Standard for Rambutan",
+      "text": "Standard for Rambutan. Committee: CCFFV. Last modified: 2005.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 246-2005",
+        "committee": "CCFFV",
+        "last_modified": "2005",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+246-2005/CXS_246e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_247_2005",
+      "title": "CXS 247-2005 - General Standard for Fruit Juices and Nectars",
+      "text": "General Standard for Fruit Juices and Nectars. Committee: CCPFV. Last modified: 2024.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 247-2005",
+        "committee": "CCPFV",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+247-2005/CXS_247e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_249_2006",
+      "title": "CXS 249-2006 - Standard for Instant Noodles",
+      "text": "Standard for Instant Noodles. Committee: CCCPL. Last modified: 2023.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 249-2006",
+        "committee": "CCCPL",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+249-2006/CXS_249e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_250_2006",
+      "title": "CXS 250-2006 - Standard for a Blend of Evaporated Skimmed Milk and Vegetable Fat",
+      "text": "Standard for a Blend of Evaporated Skimmed Milk and Vegetable Fat. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 250-2006",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+250-2006/CXS_250e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_251_2006",
+      "title": "CXS 251-2006 - Standard for a Blend of Skimmed Milk and Vegetable Fat in Powdered Form",
+      "text": "Standard for a Blend of Skimmed Milk and Vegetable Fat in Powdered Form. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 251-2006",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+251-2006/CXS_251e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_252_2006",
+      "title": "CXS 252-2006 - Standard for a Blend of Sweetened Condensed Skimmed Milk and Vegetable Fat",
+      "text": "Standard for a Blend of Sweetened Condensed Skimmed Milk and Vegetable Fat. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 252-2006",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+252-2006/CXS_252e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_253_2006",
+      "title": "CXS 253-2006 - Standard for Dairy Fat Spreads",
+      "text": "Standard for Dairy Fat Spreads. Committee: CCMMP. Last modified: 2023.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 253-2006",
+        "committee": "CCMMP",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+253-2006/CXS_253e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_254_2007",
+      "title": "CXS 254-2007 - Standard for Certain Canned Citrus Fruits",
+      "text": "Standard for Certain Canned Citrus Fruits. Committee: CCPFV. Last modified: 2023.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 254-2007",
+        "committee": "CCPFV",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+254-2007/CXS_254e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_255_2007",
+      "title": "CXS 255-2007 - Standard for Table Grapes",
+      "text": "Standard for Table Grapes. Committee: CCFFV. Last modified: 2011.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 255-2007",
+        "committee": "CCFFV",
+        "last_modified": "2011",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+255-2007/CXS_255e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_256_1999",
+      "title": "CXS 256-1999 - Standard for Fat Spreads and Blended Spreads",
+      "text": "Standard for Fat Spreads and Blended Spreads. Committee: CCFO. Last modified: 2024.",
+      "parent": "CCFO",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 256-1999",
+        "committee": "CCFO",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+256-1999/CXS_256e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_257R_2007",
+      "title": "CXS 257R-2007 - Regional Standard for Canned Humus with Tehena (Near East)",
+      "text": "Regional Standard for Canned Humus with Tehena (Near East). Committee: CCNE. Last modified: 2025.",
+      "parent": "CCNE",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 257R-2007",
+        "committee": "CCNE",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+257R-2007/CXS_257Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_258R_2007",
+      "title": "CXS 258R-2007 - Regional Standard for Canned Foul Medames (Near East)",
+      "text": "Regional Standard for Canned Foul Medames (Near East). Committee: CCNE. Last modified: 2025.",
+      "parent": "CCNE",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 258R-2007",
+        "committee": "CCNE",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+258R-2007/cxs_258Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_259R_2007",
+      "title": "CXS 259R-2007 - Regional Standard for Tehena (Near East)",
+      "text": "Regional Standard for Tehena (Near East). Committee: CCNE. Last modified: 2025.",
+      "parent": "CCNE",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 259R-2007",
+        "committee": "CCNE",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+259R-2007/CXS_259Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_260_2007",
+      "title": "CXS 260-2007 - Standard for Pickled Fruits and Vegetables",
+      "text": "Standard for Pickled Fruits and Vegetables. Committee: CCPFV. Last modified: 2023.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 260-2007",
+        "committee": "CCPFV",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+260-2007/CXS_260e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_262_2006",
+      "title": "CXS 262-2006 - Standard for Mozzarella",
+      "text": "Standard for Mozzarella. Committee: CCMMP. Last modified: 2023.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 262-2006",
+        "committee": "CCMMP",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+262-2006/CXS_262e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_263_1966",
+      "title": "CXS 263-1966 - Standard for Cheddar",
+      "text": "Standard for Cheddar. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 263-1966",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+263-1966/CXS_263e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_264_1966",
+      "title": "CXS 264-1966 - Standard for Danbo",
+      "text": "Standard for Danbo. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 264-1966",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+264-1966/CXS_264e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_265_1966",
+      "title": "CXS 265-1966 - Standard for Edam",
+      "text": "Standard for Edam. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 265-1966",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+265-1966/CXS_265e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_266_1966",
+      "title": "CXS 266-1966 - Standard for Gouda",
+      "text": "Standard for Gouda. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 266-1966",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+266-1966/CXS_266e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_267_1966",
+      "title": "CXS 267-1966 - Standard for Havarti",
+      "text": "Standard for Havarti. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 267-1966",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+267-1966/CXS_267e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_268_1966",
+      "title": "CXS 268-1966 - Standard for Sams\u00f8",
+      "text": "Standard for Sams\u00f8. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 268-1966",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+268-1966/CXS_268e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_269_1967",
+      "title": "CXS 269-1967 - Standard for Emmental",
+      "text": "Standard for Emmental. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 269-1967",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+269-1967/CXS_269e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_270_1968",
+      "title": "CXS 270-1968 - Standard for Tilsiter",
+      "text": "Standard for Tilsiter. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 270-1968",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+270-1968/CXS_270e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_271_1968",
+      "title": "CXS 271-1968 - Standard for Saint-Paulin",
+      "text": "Standard for Saint-Paulin. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 271-1968",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+271-1968/CXS_271e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_272_1968",
+      "title": "CXS 272-1968 - Standard for Provolone",
+      "text": "Standard for Provolone. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 272-1968",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+272-1968/CXS_272e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_273_1968",
+      "title": "CXS 273-1968 - Standard for Cottage Cheese",
+      "text": "Standard for Cottage Cheese. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 273-1968",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+273-1968/CXS_273e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_274_1969",
+      "title": "CXS 274-1969 - Standard for Coulommiers",
+      "text": "Standard for Coulommiers. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 274-1969",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+274-1969/CXS_274e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_275_1973",
+      "title": "CXS 275-1973 - Standard for Cream Cheese",
+      "text": "Standard for Cream Cheese. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 275-1973",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+275-1973/CXS_275e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_276_1973",
+      "title": "CXS 276-1973 - Standard for Camembert",
+      "text": "Standard for Camembert. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 276-1973",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+276-1973/CXS_276e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_277_1973",
+      "title": "CXS 277-1973 - Standard for Brie",
+      "text": "Standard for Brie. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 277-1973",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+277-1973/CXS_277e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_278_1978",
+      "title": "CXS 278-1978 - Standard for Extra Hard Grating Cheese",
+      "text": "Standard for Extra Hard Grating Cheese. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 278-1978",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+278-1978/CXS_278e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_279_1971",
+      "title": "CXS 279-1971 - Standard for Butter",
+      "text": "Standard for Butter. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 279-1971",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+279-1971/CXS_279e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_280_1973",
+      "title": "CXS 280-1973 - Standard for Milkfat Products",
+      "text": "Standard for Milkfat Products. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 280-1973",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+280-1973/CXS_280e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_281_1971",
+      "title": "CXS 281-1971 - Standard for Evaporated Milks",
+      "text": "Standard for Evaporated Milks. Committee: CCMMP. Last modified: 2023.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 281-1971",
+        "committee": "CCMMP",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+281-1971/CXS_281e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_282_1971",
+      "title": "CXS 282-1971 - Standard for Sweetened Condensed Milks",
+      "text": "Standard for Sweetened Condensed Milks. Committee: CCMMP. Last modified: 2023.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 282-1971",
+        "committee": "CCMMP",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+282-1971/CXS_282e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_283_1978",
+      "title": "CXS 283-1978 - General Standard for Cheese",
+      "text": "General Standard for Cheese. Committee: CCMMP. Last modified: 2024.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 283-1978",
+        "committee": "CCMMP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+283-1978/CXS_283e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_284_1971",
+      "title": "CXS 284-1971 - Standard for Whey Cheeses",
+      "text": "Standard for Whey Cheeses. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 284-1971",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+284-1971/CXS_284e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_288_1976",
+      "title": "CXS 288-1976 - Standard for Cream and Prepared Creams",
+      "text": "Standard for Cream and Prepared Creams. Committee: CCMMP. Last modified: 2024.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 288-1976",
+        "committee": "CCMMP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+288-1976/CXS_288e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_289_1995",
+      "title": "CXS 289-1995 - Standard for Whey Powders",
+      "text": "Standard for Whey Powders. Committee: CCMMP. Last modified: 2022.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 289-1995",
+        "committee": "CCMMP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+289-1995/CXS_289e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_290_1995",
+      "title": "CXS 290-1995 - Standard for Edible Casein Products",
+      "text": "Standard for Edible Casein Products. Committee: CCMMP. Last modified: 2023.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 290-1995",
+        "committee": "CCMMP",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+290-1995/CXS_290e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_291_2010",
+      "title": "CXS 291-2010 - Standard for Sturgeon Caviar",
+      "text": "Standard for Sturgeon Caviar. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 291-2010",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+291-2010/CXS_291e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_292_2008",
+      "title": "CXS 292-2008 - Standard for Live and Raw Bivalve Molluscs",
+      "text": "Standard for Live and Raw Bivalve Molluscs. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 292-2008",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+292-2008/CXS_292e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_293_2008",
+      "title": "CXS 293-2008 - Standard for Tomatoes",
+      "text": "Standard for Tomatoes. Committee: CCFFV. Last modified: 2008.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 293-2008",
+        "committee": "CCFFV",
+        "last_modified": "2008",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+293-2008/CXS_293e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_294_2023",
+      "title": "CXS 294-2023 - Standard for Gochujang",
+      "text": "Standard for Gochujang. Committee: CCPFV. Last modified: 2023.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 294-2023",
+        "committee": "CCPFV",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+294-2023/CXS_294e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_296_2009",
+      "title": "CXS 296-2009 - Standard for Jams, Jellies and Marmalades",
+      "text": "Standard for Jams, Jellies and Marmalades. Committee: CCPFV. Last modified: 2025.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 296-2009",
+        "committee": "CCPFV",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+296-2009/CXS_296e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_297_2009",
+      "title": "CXS 297-2009 - Standard for Certain Canned Vegetables",
+      "text": "Standard for Certain Canned Vegetables. Committee: CCPFV. Last modified: 2023.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 297-2009",
+        "committee": "CCPFV",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+297-2009/CXS_297e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_298R_2009",
+      "title": "CXS 298R-2009 - Regional Standard for Fermented Soybean Paste (Asia)",
+      "text": "Regional Standard for Fermented Soybean Paste (Asia). Committee: CCASIA. Last modified: 2025.",
+      "parent": "CCASIA",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 298R-2009",
+        "committee": "CCASIA",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+298R-2009/CXS_298Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_299_2010",
+      "title": "CXS 299-2010 - Standard for Apples",
+      "text": "Standard for Apples. Committee: CCFFV. Last modified: 2010.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 299-2010",
+        "committee": "CCFFV",
+        "last_modified": "2010",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+299-2010/CXS_299e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_3_1981",
+      "title": "CXS 3-1981 - Standard for Canned Salmon",
+      "text": "Standard for Canned Salmon. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 3-1981",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+3-1981/CXS_003e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_300_2010",
+      "title": "CXS 300-2010 - Standard for Bitter Cassava",
+      "text": "Standard for Bitter Cassava. Committee: CCFFV. Last modified: 2013.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 300-2010",
+        "committee": "CCFFV",
+        "last_modified": "2013",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+300-2010/CXS_300e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_301R_2011",
+      "title": "CXS 301R-2011 - Regional Standard for Edible Sago Flour (Asia)",
+      "text": "Regional Standard for Edible Sago Flour (Asia). Committee: CCASIA. Last modified: 2025.",
+      "parent": "CCASIA",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 301R-2011",
+        "committee": "CCASIA",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+301R-2011/CXS_301Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_302_2011",
+      "title": "CXS 302-2011 - Standard for Fish Sauce",
+      "text": "Standard for Fish Sauce. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 302-2011",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+302-2011/CXS_302e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_303_2011",
+      "title": "CXS 303-2011 - Standard for Tree Tomatoes",
+      "text": "Standard for Tree Tomatoes. Committee: CCFFV. Last modified: 2011.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 303-2011",
+        "committee": "CCFFV",
+        "last_modified": "2011",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+303-2011/CXS_303e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_304R_2011",
+      "title": "CXS 304R-2011 - Regional Standard for Culantro Coyote (Latin America and the Caribbean)",
+      "text": "Regional Standard for Culantro Coyote (Latin America and the Caribbean). Committee: CCLAC. Last modified: 2023.",
+      "parent": "CCLAC",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 304R-2011",
+        "committee": "CCLAC",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+304R-2011/CXS_304Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_305R_2011",
+      "title": "CXS 305R-2011 - Regional Standard for Lucuma (Latin America and the Caribbean)",
+      "text": "Regional Standard for Lucuma (Latin America and the Caribbean). Committee: CCLAC. Last modified: 2023.",
+      "parent": "CCLAC",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 305R-2011",
+        "committee": "CCLAC",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+305R-2011/CXS_305Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_306_2023",
+      "title": "CXS 306-2023 - Standard for Chilli Sauce",
+      "text": "Standard for Chilli Sauce. Committee: CCPFV. Last modified: 2023.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 306-2023",
+        "committee": "CCPFV",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+306-2023/CXS_306e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_307_2011",
+      "title": "CXS 307-2011 - Standard for Chilli Peppers",
+      "text": "Standard for Chilli Peppers. Committee: CCFFV. Last modified: 2011.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 307-2011",
+        "committee": "CCFFV",
+        "last_modified": "2011",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+307-2011/CXS_307e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_308R_2011",
+      "title": "CXS 308R-2011 - Regional Standard for Harissa (Red Hot Pepper Paste) (Near East)",
+      "text": "Regional Standard for Harissa (Red Hot Pepper Paste) (Near East). Committee: CCNE. Last modified: 2025.",
+      "parent": "CCNE",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 308R-2011",
+        "committee": "CCNE",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+308R-2011/CXS_308Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_309R_2011",
+      "title": "CXS 309R-2011 - Regional Standard for Halwa Tehenia (Near East)",
+      "text": "Regional Standard for Halwa Tehenia (Near East). Committee: CCNE. Last modified: 2025.",
+      "parent": "CCNE",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 309R-2011",
+        "committee": "CCNE",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+309R-2011/CXS_309Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_310_2013",
+      "title": "CXS 310-2013 - Standard for Pomegranate",
+      "text": "Standard for Pomegranate. Committee: CCFFV. Last modified: 2013.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 310-2013",
+        "committee": "CCFFV",
+        "last_modified": "2013",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+310-2013/CXS_310e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_311_2013",
+      "title": "CXS 311-2013 - Standard for Smoked Fish, Smoke-Flavoured Fish and Smoke-Dried Fish",
+      "text": "Standard for Smoked Fish, Smoke-Flavoured Fish and Smoke-Dried Fish. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 311-2013",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+311-2013/CXS_311e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_312_2013",
+      "title": "CXS 312-2013 - Standard for Live Abalone and for Raw Fresh Chilled or Frozen Abalone for Direct Consumption or for further Processing",
+      "text": "Standard for Live Abalone and for Raw Fresh Chilled or Frozen Abalone for Direct Consumption or for further Processing. Committee: CCFFP. Last modified: 2016.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 312-2013",
+        "committee": "CCFFP",
+        "last_modified": "2016",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+312-2013/CXS_312e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_313R_2013",
+      "title": "CXS 313R-2013 - Regional Standard for Tempe (Asia)",
+      "text": "Regional Standard for Tempe (Asia). Committee: CCASIA. Last modified: 2017.",
+      "parent": "CCASIA",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 313R-2013",
+        "committee": "CCASIA",
+        "last_modified": "2017",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+313R-2013/CXS_313Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_314R_2013",
+      "title": "CXS 314R-2013 - Regional Standard for Date Paste (Near East)",
+      "text": "Regional Standard for Date Paste (Near East). Committee: CCNE. Last modified: 2025.",
+      "parent": "CCNE",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 314R-2013",
+        "committee": "CCNE",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+314R-2013/CXS_314Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_315_2014",
+      "title": "CXS 315-2014 - Standard for Fresh and Quick Frozen Raw Scallop Products",
+      "text": "Standard for Fresh and Quick Frozen Raw Scallop Products. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 315-2014",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+315-2014/CXS_315e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_316_2014",
+      "title": "CXS 316-2014 - Standard for Passion Fruit",
+      "text": "Standard for Passion Fruit. Committee: CCFFV. Last modified: 2014.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 316-2014",
+        "committee": "CCFFV",
+        "last_modified": "2014",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+316-2014/CXS_316e_2014.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_317_2014",
+      "title": "CXS 317-2014 - Standard for Durian",
+      "text": "Standard for Durian. Committee: CCFFV. Last modified: 2014.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 317-2014",
+        "committee": "CCFFV",
+        "last_modified": "2014",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+317-2014/CXS_317e_2014.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_318_2014",
+      "title": "CXS 318-2014 - Standard for Okra",
+      "text": "Standard for Okra. Committee: CCFFV. Last modified: 2014.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 318-2014",
+        "committee": "CCFFV",
+        "last_modified": "2014",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+318-2014/CXS_318e_2014.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_319_2015",
+      "title": "CXS 319-2015 - Standard for Certain Canned Fruits",
+      "text": "Standard for Certain Canned Fruits. Committee: CCPFV. Last modified: 2023.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 319-2015",
+        "committee": "CCPFV",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+319-2015/CXS_319e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_320_2015",
+      "title": "CXS 320-2015 - Standard for Quick Frozen Vegetables",
+      "text": "Standard for Quick Frozen Vegetables. Committee: CCPFV. Last modified: 2022.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 320-2015",
+        "committee": "CCPFV",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+320-2015/CXS_320e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_321_2015",
+      "title": "CXS 321-2015 - Standard for Ginseng Products",
+      "text": "Standard for Ginseng Products. Committee: CCPFV. Last modified: 2022.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 321-2015",
+        "committee": "CCPFV",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+321-2015/CXS_321e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_322R_2015",
+      "title": "CXS 322R-2015 - Regional Standard for Non-Fermented Soybean Products (Asia)",
+      "text": "Regional Standard for Non-Fermented Soybean Products (Asia). Committee: CCASIA. Last modified: 2025.",
+      "parent": "CCASIA",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 322R-2015",
+        "committee": "CCASIA",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+322R-2015/CXS_322Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_323R_2017",
+      "title": "CXS 323R-2017 - Regional Standard for Laver Products (Asia)",
+      "text": "Regional Standard for Laver Products (Asia). Committee: CCASIA. Last modified: 2024.",
+      "parent": "CCASIA",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 323R-2017",
+        "committee": "CCASIA",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+323R-2017/CXS_323Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_324R_2017",
+      "title": "CXS 324R-2017 - Regional Standard for Yacon (Latin America and the Caribbean)",
+      "text": "Regional Standard for Yacon (Latin America and the Caribbean). Committee: CCLAC. Last modified: 2024.",
+      "parent": "CCLAC",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 324R-2017",
+        "committee": "CCLAC",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+324R-2017/CXS_324Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_325R_2017",
+      "title": "CXS 325R-2017 - Regional Standard for Unrefined Shea Butter (Africa)",
+      "text": "Regional Standard for Unrefined Shea Butter (Africa). Committee: CCAFRICA. Last modified: 2022.",
+      "parent": "CCAFRICA",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 325R-2017",
+        "committee": "CCAFRICA",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+325R-2017/CXS_325Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_326_2017",
+      "title": "CXS 326-2017 - Standard for Black, White and Green Peppers",
+      "text": "Standard for Black, White and Green Peppers. Committee: CCSCH. Last modified: 2022.",
+      "parent": "CCSCH",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 326-2017",
+        "committee": "CCSCH",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+326-2017/CXS_326e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_327_2017",
+      "title": "CXS 327-2017 - Standard for Cumin",
+      "text": "Standard for Cumin. Committee: CCSCH. Last modified: 2022.",
+      "parent": "CCSCH",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 327-2017",
+        "committee": "CCSCH",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+327-2017/CXS_327e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_328_2017",
+      "title": "CXS 328-2017 - Standard for Dried Thyme",
+      "text": "Standard for Dried Thyme. Committee: CCSCH. Last modified: 2022.",
+      "parent": "CCSCH",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 328-2017",
+        "committee": "CCSCH",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+328-2017/CXS_328e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_329_2017",
+      "title": "CXS 329-2017 - Standard for Fish Oils",
+      "text": "Standard for Fish Oils. Committee: CCFO. Last modified: 2024.",
+      "parent": "CCFO",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 329-2017",
+        "committee": "CCFO",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+329-2017/CXS_329e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_33_1981",
+      "title": "CXS 33-1981 - Standard for Olive Oils and Olive Pomace Oils",
+      "text": "Standard for Olive Oils and Olive Pomace Oils. Committee: CCFO. Last modified: 2024.",
+      "parent": "CCFO",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 33-1981",
+        "committee": "CCFO",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+33-1981/CXS_033e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_330_2018",
+      "title": "CXS 330-2018 - Standard for Aubergines",
+      "text": "Standard for Aubergines. Committee: CCFFV. Last modified: 2018.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 330-2018",
+        "committee": "CCFFV",
+        "last_modified": "2018",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+330-2018/CXS_330e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_331_2017",
+      "title": "CXS 331-2017 - Standard for Dairy Permeate Powders",
+      "text": "Standard for Dairy Permeate Powders. Committee: CCMMP. Last modified: 2023.",
+      "parent": "CCMMP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 331-2017",
+        "committee": "CCMMP",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+331-2017/CXS_331e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_332R_2018",
+      "title": "CXS 332R-2018 - Regional Standard for Doogh (Near East)",
+      "text": "Regional Standard for Doogh (Near East). Committee: CCNE. Last modified: 2025.",
+      "parent": "CCNE",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 332R-2018",
+        "committee": "CCNE",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+332R-2018/CXS_332Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_333_2019",
+      "title": "CXS 333-2019 - Standard for Quinoa",
+      "text": "Standard for Quinoa. Committee: CCCPL. Last modified: 2020.",
+      "parent": "CCCPL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 333-2019",
+        "committee": "CCCPL",
+        "last_modified": "2020",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+333-2019/CXS_333e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_334R_2020",
+      "title": "CXS 334R-2020 - Regional Standard for fermented cooked Cassava-based products (Africa)",
+      "text": "Regional Standard for fermented cooked Cassava-based products (Africa). Committee: CCAFRICA. Last modified: 2022.",
+      "parent": "CCAFRICA",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 334R-2020",
+        "committee": "CCAFRICA",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+334R-2020/CXS_334Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_335R_2020",
+      "title": "CXS 335R-2020 - Regional Standard for fresh leaves of Gnetum spp. (Africa)",
+      "text": "Regional Standard for fresh leaves of Gnetum spp. (Africa). Committee: CCAFRICA. Last modified: 2022.",
+      "parent": "CCAFRICA",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 335R-2020",
+        "committee": "CCAFRICA",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+335R-2020/CXS_335Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_336R_2020",
+      "title": "CXS 336R-2020 - Regional Standard for kava products for use as a beverage when mixed with water (North America and South West Pacific)",
+      "text": "Regional Standard for kava products for use as a beverage when mixed with water (North America and South West Pacific). Committee: CCNASWP. Last modified: 2023.",
+      "parent": "CCNASWP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 336R-2020",
+        "committee": "CCNASWP",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+336R-2020/CXS_336Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_337_2020",
+      "title": "CXS 337-2020 - Standard for fresh garlic",
+      "text": "Standard for fresh garlic. Committee: CCFFV. Last modified: 2020.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 337-2020",
+        "committee": "CCFFV",
+        "last_modified": "2020",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+337-2020/CXS_337e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_338_2020",
+      "title": "CXS 338-2020 - Standard for kiwifruit",
+      "text": "Standard for kiwifruit. Committee: CCFFV. Last modified: 2020.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 338-2020",
+        "committee": "CCFFV",
+        "last_modified": "2020",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+338-2020/CXS_338e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_339_2020",
+      "title": "CXS 339-2020 - Standard for ware potatoes",
+      "text": "Standard for ware potatoes. Committee: CCFFV. Last modified: 2020.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 339-2020",
+        "committee": "CCFFV",
+        "last_modified": "2020",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+339-2020/CXS_339e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_340_2020",
+      "title": "CXS 340-2020 - Standard for yam",
+      "text": "Standard for yam. Committee: CCFFV. Last modified: 2020.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 340-2020",
+        "committee": "CCFFV",
+        "last_modified": "2020",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+340-2020/CXS_340e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_341R_2020",
+      "title": "CXS 341R-2020 - Regional Standard for mixed zaatar (Near East)",
+      "text": "Regional Standard for mixed zaatar (Near East). Committee: CCNE. Last modified: 2025.",
+      "parent": "CCNE",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 341R-2020",
+        "committee": "CCNE",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+341R-2020/CXS_341Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_342_2021",
+      "title": "CXS 342-2021 - Standard for Dried Oregano",
+      "text": "Standard for Dried Oregano. Committee: CCSCH. Last modified: 2025.",
+      "parent": "CCSCH",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 342-2021",
+        "committee": "CCSCH",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+342-2021/CXS_342e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_343_2021",
+      "title": "CXS 343-2021 - Standard for dried roots, rhizomes and bulbs: Dried or dehydrated ginger",
+      "text": "Standard for dried roots, rhizomes and bulbs: Dried or dehydrated ginger. Committee: CCSCH. Last modified: 2025.",
+      "parent": "CCSCH",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 343-2021",
+        "committee": "CCSCH",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+343-2021/CXS_343e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_344_2021",
+      "title": "CXS 344-2021 - Standard for dried floral parts: Cloves",
+      "text": "Standard for dried floral parts: Cloves. Committee: CCSCH. Last modified: 2025.",
+      "parent": "CCSCH",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 344-2021",
+        "committee": "CCSCH",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+344-2021/CXS_344e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_345_2021",
+      "title": "CXS 345-2021 - Standard for Dried Basil",
+      "text": "Standard for Dried Basil. Committee: CCSCH. Last modified: 2025.",
+      "parent": "CCSCH",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 345-2021",
+        "committee": "CCSCH",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+345-2021/CXS_345e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_346_2021",
+      "title": "CXS 346-2021 - General Standard for the labelling of non-retail containers of foods",
+      "text": "General Standard for the labelling of non-retail containers of foods. Committee: CCFL. Last modified: 2021.",
+      "parent": "CCFL",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 346-2021",
+        "committee": "CCFL",
+        "last_modified": "2021",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+346-2021/CXS_346e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_347_2019",
+      "title": "CXS 347-2019 - Standard for dried or dehydrated garlic",
+      "text": "Standard for dried or dehydrated garlic. Committee: CCSCH. Last modified: 2025.",
+      "parent": "CCSCH",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 347-2019",
+        "committee": "CCSCH",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+347-2019/CXS_347e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_348_2022",
+      "title": "CXS 348-2022 - Standard for Onions and Shallots",
+      "text": "Standard for Onions and Shallots. Committee: CCFFV. Last modified: 2022.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 348-2022",
+        "committee": "CCFFV",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+348-2022/CXS_348e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_349_2022",
+      "title": "CXS 349-2022 - Standard for Berry Fruits",
+      "text": "Standard for Berry Fruits. Committee: CCFFV. Last modified: 2022.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 349-2022",
+        "committee": "CCFFV",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+349-2022/CXS_349e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_350R_2022",
+      "title": "CXS 350R-2022 - Regional Standard for Dried Meat (Africa)",
+      "text": "Regional Standard for Dried Meat (Africa). Committee: CCAFRICA. Last modified: 2022.",
+      "parent": "CCAFRICA",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 350R-2022",
+        "committee": "CCAFRICA",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+350R-2022/CXS_350Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_351_2022",
+      "title": "CXS 351-2022 - Standard for dried floral parts \u2013saffron",
+      "text": "Standard for dried floral parts \u2013saffron. Committee: CCSCH. Last modified: 2025.",
+      "parent": "CCSCH",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 351-2022",
+        "committee": "CCSCH",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+351-2022/CXS_351e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_352_2022",
+      "title": "CXS 352-2022 - Standard for Dried Seeds \u2013 Nutmeg",
+      "text": "Standard for Dried Seeds \u2013 Nutmeg. Committee: CCSCH. Last modified: 2025.",
+      "parent": "CCSCH",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 352-2022",
+        "committee": "CCSCH",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+352-2022/CXS_352e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_353_2022",
+      "title": "CXS 353-2022 - Standard for Dried or Dehydrated Chilli Pepper and Paprika",
+      "text": "Standard for Dried or Dehydrated Chilli Pepper and Paprika. Committee: CCSCH. Last modified: 2025.",
+      "parent": "CCSCH",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 353-2022",
+        "committee": "CCSCH",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+353-2022/CXS_353e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_354R_2023",
+      "title": "CXS 354R-2023 - Regional Standard for Soybean Products Fermented with Bacillus Species (Asia)",
+      "text": "Regional Standard for Soybean Products Fermented with Bacillus Species (Asia). Committee: CCASIA. Last modified: 2023.",
+      "parent": "CCASIA",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 354R-2023",
+        "committee": "CCASIA",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+354R-2023/CXS_354Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_355R_2023",
+      "title": "CXS 355R-2023 - Regional Standard for Cooked Rice Wrapped in Plant Leaves (Asia)",
+      "text": "Regional Standard for Cooked Rice Wrapped in Plant Leaves (Asia). Committee: CCASIA. Last modified: 2025.",
+      "parent": "CCASIA",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 355R-2023",
+        "committee": "CCASIA",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+355R-2023/CXS_355Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_356R_2023",
+      "title": "CXS 356R-2023 - Regional Standard for Fermented Noni Fruit Juice (North America and South West Pacific)",
+      "text": "Regional Standard for Fermented Noni Fruit Juice (North America and South West Pacific). Committee: CCNASWP. Last modified: 2023.",
+      "parent": "CCNASWP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 356R-2023",
+        "committee": "CCNASWP",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+356R-2023/CXS+356Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_357_2024",
+      "title": "CXS 357-2024 - Standard for spices derived from dried or dehydrated fruits and berries \u2013 Small cardamom",
+      "text": "Standard for spices derived from dried or dehydrated fruits and berries \u2013 Small cardamom. Committee: CCSCH. Last modified: 2024.",
+      "parent": "CCSCH",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 357-2024",
+        "committee": "CCSCH",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+357-2024/CXS_357e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_358_2024",
+      "title": "CXS 358-2024 - Standard for spices derived from dried or dehydrated fruits and berries - Allspice, juniper berry and star anise",
+      "text": "Standard for spices derived from dried or dehydrated fruits and berries - Allspice, juniper berry and star anise. Committee: CCSCH. Last modified: 2024.",
+      "parent": "CCSCH",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 358-2024",
+        "committee": "CCSCH",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+358-2024/CXS_358e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_359_2024",
+      "title": "CXS 359-2024 - Standard for dried or dehydrated roots, rhizomes and bulbs \u2013 Turmeric",
+      "text": "Standard for dried or dehydrated roots, rhizomes and bulbs \u2013 Turmeric. Committee: CCSCH. Last modified: 2024.",
+      "parent": "CCSCH",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 359-2024",
+        "committee": "CCSCH",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+359-2024/CXS_359e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_36_1981",
+      "title": "CXS 36-1981 - Standard for Quick Frozen Finfish, Uneviscerated and Eviscerated",
+      "text": "Standard for Quick Frozen Finfish, Uneviscerated and Eviscerated. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 36-1981",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+36-1981/CXS_036e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_360_2020",
+      "title": "CXS 360-2020 - General standard for dried fruits",
+      "text": "General standard for dried fruits. Committee: CCPFV. Last modified: 2020.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 360-2020",
+        "committee": "CCPFV",
+        "last_modified": "2020",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+360-2020/CXS_360e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_361_2020",
+      "title": "CXS 361-2020 - General standard for canned mixed fruits",
+      "text": "General standard for canned mixed fruits. Committee: CCPFV. Last modified: 2020.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 361-2020",
+        "committee": "CCPFV",
+        "last_modified": "2020",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+361-2020/CXS_361e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_362R_2025",
+      "title": "CXS 362R-2025 - Regional standard for Castilla lulo (naranjilla) \u2013 Latin America and the Caribbean",
+      "text": "Regional standard for Castilla lulo (naranjilla) \u2013 Latin America and the Caribbean. Committee: CCLAC. Last modified: 2025.",
+      "parent": "CCLAC",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 362R-2025",
+        "committee": "CCLAC",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+362R-2025/CXS_362Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_363_2025",
+      "title": "CXS 363-2025 - Standard for fresh dates",
+      "text": "Standard for fresh dates. Committee: CCFFV. Last modified: 0.",
+      "parent": "CCFFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 363-2025",
+        "committee": "CCFFV",
+        "last_modified": "0",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+363-2025/CXS_363e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_37_1991",
+      "title": "CXS 37-1991 - Standard for Canned Shrimps or Prawns",
+      "text": "Standard for Canned Shrimps or Prawns. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 37-1991",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+37-1991/CXS_037e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_38_1981",
+      "title": "CXS 38-1981 - Standard for Edible Fungi and Fungus Products",
+      "text": "Standard for Edible Fungi and Fungus Products. Committee: CCPFV. Last modified: 2023.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 38-1981",
+        "committee": "CCPFV",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+38-1981/CXS_038e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_39_1981",
+      "title": "CXS 39-1981 - Standard for Dried Edible Fungi",
+      "text": "Standard for Dried Edible Fungi. Committee: CCPFV. Last modified: 2023.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 39-1981",
+        "committee": "CCPFV",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+39-1981/CXS_039e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_40R_1981",
+      "title": "CXS 40R-1981 - Regional Standard for Chanterelles (Europe)",
+      "text": "Regional Standard for Chanterelles (Europe). Committee: CCEURO. Last modified: 2022.",
+      "parent": "CCEURO",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 40R-1981",
+        "committee": "CCEURO",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+40R-1981/CXS_040Re.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_52_1981",
+      "title": "CXS 52-1981 - Standard for Quick Frozen Strawberries",
+      "text": "Standard for Quick Frozen Strawberries. Committee: CCPFV. Last modified: 2022.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 52-1981",
+        "committee": "CCPFV",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+52-1981/CXS_052e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_53_1981",
+      "title": "CXS 53-1981 - Standard for Special Dietary Foods with Low-Sodium Content (Including Salt Substitutes)",
+      "text": "Standard for Special Dietary Foods with Low-Sodium Content (Including Salt Substitutes). Committee: CCNFSDU. Last modified: 2019.",
+      "parent": "CCNFSDU",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 53-1981",
+        "committee": "CCNFSDU",
+        "last_modified": "2019",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+53-1981/CXS_053e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_57_1981",
+      "title": "CXS 57-1981 - Standard for Processed Tomato Concentrates",
+      "text": "Standard for Processed Tomato Concentrates. Committee: CCPFV. Last modified: 2023.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 57-1981",
+        "committee": "CCPFV",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+57-1981/CXS_057e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_60_1981",
+      "title": "CXS 60-1981 - Standard for Canned Raspberries",
+      "text": "Standard for Canned Raspberries. Committee: CCPFV. Last modified: 2023.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 60-1981",
+        "committee": "CCPFV",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+60-1981/CXS_060e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_62_1981",
+      "title": "CXS 62-1981 - Standard for Canned Strawberries",
+      "text": "Standard for Canned Strawberries. Committee: CCPFV. Last modified: 2022.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 62-1981",
+        "committee": "CCPFV",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+62-1981/CXS_062e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_66_1981",
+      "title": "CXS 66-1981 - Standard for Table Olives",
+      "text": "Standard for Table Olives. Committee: CCPFV. Last modified: 2024.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 66-1981",
+        "committee": "CCPFV",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+66-1981/CXS_066e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_69_1981",
+      "title": "CXS 69-1981 - Standard for Quick Frozen Raspberries",
+      "text": "Standard for Quick Frozen Raspberries. Committee: CCPFV. Last modified: 2022.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 69-1981",
+        "committee": "CCPFV",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+69-1981/CXS_069e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_70_1981",
+      "title": "CXS 70-1981 - Standard for Canned Tuna and Bonito",
+      "text": "Standard for Canned Tuna and Bonito. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 70-1981",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+70-1981/CXS_070e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_72_1981",
+      "title": "CXS 72-1981 - Standard for Infant Formula and Formulas for Special Medical Purposes Intended for Infants",
+      "text": "Standard for Infant Formula and Formulas for Special Medical Purposes Intended for Infants. Committee: CCNFSDU. Last modified: 2024.",
+      "parent": "CCNFSDU",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 72-1981",
+        "committee": "CCNFSDU",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+72-1981/CXS_072e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_73_1981",
+      "title": "CXS 73-1981 - Standard for Canned Baby Foods",
+      "text": "Standard for Canned Baby Foods. Committee: CCNFSDU. Last modified: 2023.",
+      "parent": "CCNFSDU",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 73-1981",
+        "committee": "CCNFSDU",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+73-1981/CXS_073e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_74_1981",
+      "title": "CXS 74-1981 - Standard for Processed Cereal-Based Foods for Infants and Young Children",
+      "text": "Standard for Processed Cereal-Based Foods for Infants and Young Children. Committee: CCNFSDU. Last modified: 2023.",
+      "parent": "CCNFSDU",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 74-1981",
+        "committee": "CCNFSDU",
+        "last_modified": "2023",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+74-1981/CXS_074e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_75_1981",
+      "title": "CXS 75-1981 - Standard for Quick Frozen Peaches",
+      "text": "Standard for Quick Frozen Peaches. Committee: CCPFV. Last modified: 2022.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 75-1981",
+        "committee": "CCPFV",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+75-1981/CXS_075e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_76_1981",
+      "title": "CXS 76-1981 - Standard for Quick Frozen Bilberries",
+      "text": "Standard for Quick Frozen Bilberries. Committee: CCPFV. Last modified: 2022.",
+      "parent": "CCPFV",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 76-1981",
+        "committee": "CCPFV",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+76-1981/CXS_076e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_86_1981",
+      "title": "CXS 86-1981 - Standard for Cocoa Butter",
+      "text": "Standard for Cocoa Butter. Committee: CCCPC. Last modified: 2025.",
+      "parent": "CCCPC",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 86-1981",
+        "committee": "CCCPC",
+        "last_modified": "2025",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+86-1981/CXS_086e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_87_1981",
+      "title": "CXS 87-1981 - Standard for Chocolate and Chocolate Products",
+      "text": "Standard for Chocolate and Chocolate Products. Committee: CCCPC. Last modified: 2022.",
+      "parent": "CCCPC",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 87-1981",
+        "committee": "CCCPC",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+87-1981/CXS_087e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_88_1981",
+      "title": "CXS 88-1981 - Standard for Corned Beef",
+      "text": "Standard for Corned Beef. Committee: CCPMPP. Last modified: 2022.",
+      "parent": "CCPMPP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 88-1981",
+        "committee": "CCPMPP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+88-1981/CXS_088e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_89_1981",
+      "title": "CXS 89-1981 - Standard for Luncheon Meat",
+      "text": "Standard for Luncheon Meat. Committee: CCPMPP. Last modified: 2022.",
+      "parent": "CCPMPP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 89-1981",
+        "committee": "CCPMPP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+89-1981/CXS_089e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_90_1981",
+      "title": "CXS 90-1981 - Standard for Canned Crab Meat",
+      "text": "Standard for Canned Crab Meat. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 90-1981",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+90-1981/CXS_090e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_92_1981",
+      "title": "CXS 92-1981 - Standard for Quick Frozen Shrimps or Prawns",
+      "text": "Standard for Quick Frozen Shrimps or Prawns. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 92-1981",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+92-1981/CXS_092e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_94_1981",
+      "title": "CXS 94-1981 - Standard for Canned Sardines and Sardine-Type Products",
+      "text": "Standard for Canned Sardines and Sardine-Type Products. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 94-1981",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+94-1981/CXS_094e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_95_1981",
+      "title": "CXS 95-1981 - Standard for Quick Frozen Lobsters",
+      "text": "Standard for Quick Frozen Lobsters. Committee: CCFFP. Last modified: 2024.",
+      "parent": "CCFFP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 95-1981",
+        "committee": "CCFFP",
+        "last_modified": "2024",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+95-1981/CXS_095e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_96_1981",
+      "title": "CXS 96-1981 - Standard for Cooked Cured Ham",
+      "text": "Standard for Cooked Cured Ham. Committee: CCPMPP. Last modified: 2022.",
+      "parent": "CCPMPP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 96-1981",
+        "committee": "CCPMPP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+96-1981/CXS_096e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_97_1981",
+      "title": "CXS 97-1981 - Standard for Cooked Cured Pork Shoulder",
+      "text": "Standard for Cooked Cured Pork Shoulder. Committee: CCPMPP. Last modified: 2022.",
+      "parent": "CCPMPP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 97-1981",
+        "committee": "CCPMPP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+97-1981/CXS_097e.pdf"
+      }
+    },
+    {
+      "item_id": "CXS_98_1981",
+      "title": "CXS 98-1981 - Standard for Cooked Cured Chopped Meat",
+      "text": "Standard for Cooked Cured Chopped Meat. Committee: CCPMPP. Last modified: 2022.",
+      "parent": "CCPMPP",
+      "tags": [
+        "codex",
+        "food-safety",
+        "standard"
+      ],
+      "metadata": {
+        "official_url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/",
+        "reference": "CXS 98-1981",
+        "committee": "CCPMPP",
+        "last_modified": "2022",
+        "english_pdf": "https://workspace.fao.org/sites/codex/Standards/CXS+98-1981/CXS_098e.pdf"
+      }
+    }
+  ],
+  "definitions": [],
+  "mappings": [],
+  "applicability_rules": [
+    {
+      "sector": "food-production",
+      "subsector": null,
+      "applies": 1,
+      "confidence": "definite",
+      "basis_item": "CXS_1_1985",
+      "conditions": null,
+      "notes": "Codex standards define food safety and quality baselines for operators and regulators."
+    }
+  ],
+  "source_registry": {
+    "official_id": "CODEX",
+    "official_version": "Codex list-standards page snapshot",
+    "last_fetched": "2026-02-22T07:27:10Z",
+    "last_updated": "2026-02-22",
+    "last_checked": "2026-02-22",
+    "update_frequency": "monthly",
+    "items_expected": 239,
+    "items_parsed": 239,
+    "quality_status": "complete",
+    "notes": "Parsed from Codex standards registry table (English index)."
+  }
+}
