@@ -208,7 +208,8 @@ const TOOLS: Tool[] = [
   },
 ];
 
-function registerTools(server: Server, database: InstanceType<typeof Database>) {
+// eslint-disable-next-line @typescript-eslint/no-explicit-any -- WASM sqlite has same runtime API as better-sqlite3 but different types
+function registerTools(server: Server, database: any) {
   server.setRequestHandler(ListToolsRequestSchema, async () => ({ tools: TOOLS }));
 
   server.setRequestHandler(CallToolRequestSchema, async (request) => {
