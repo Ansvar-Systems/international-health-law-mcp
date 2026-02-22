@@ -45,13 +45,23 @@ let db: InstanceType<typeof Database> | null = null;
 
 function getDatabase(): InstanceType<typeof Database> {
   if (!db) {
+    // Copy to /tmp (writable filesystem on Vercel) for WASM SQLite lock files
     if (existsSync(TMP_DB_LOCK)) {
       rmSync(TMP_DB_LOCK, { recursive: true, force: true });
     }
     if (!existsSync(TMP_DB)) {
       copyFileSync(SOURCE_DB, TMP_DB);
     }
-    db = new Database(TMP_DB, { readonly: true });
+
+    // node-sqlite3-wasm needs explicit VFS configuration on some platforms.
+    // Try /tmp first (writable), fall back to in-place (readonly bundled).
+    try {
+      db = new Database(TMP_DB);
+    } catch {
+      // Fallback: try source path directly
+      db = new Database(SOURCE_DB);
+    }
+    try { db.pragma('journal_mode = DELETE'); } catch { /* read-only is fine */ }
     db.pragma('foreign_keys = ON');
   }
   return db;
