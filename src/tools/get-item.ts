@@ -72,7 +72,7 @@
  * ```
  */
 
-import type { Database } from 'better-sqlite3';
+import type { Database } from '@ansvar/mcp-sqlite';
 
 // ═══════════════════════════════════════════════════════════════════════════
 // TYPES

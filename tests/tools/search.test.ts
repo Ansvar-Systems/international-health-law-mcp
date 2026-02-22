@@ -29,7 +29,7 @@
  */
 
 import { describe, it, expect, beforeAll, afterAll } from 'vitest';
-import type { Database } from 'better-sqlite3';
+import type { Database } from '@ansvar/mcp-sqlite';
 import { createTestDatabase, closeTestDatabase } from '../fixtures/test-db';
 import { searchContent } from '../../src/tools/search';
 

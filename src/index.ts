@@ -6,7 +6,7 @@ import {
   ListToolsRequestSchema,
   type Tool,
 } from '@modelcontextprotocol/sdk/types.js';
-import Database from 'better-sqlite3';
+import Database from '@ansvar/mcp-sqlite';
 import * as path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -38,7 +38,7 @@ const SERVER_VERSION = '0.1.0';
 const DB_ENV_VAR = 'INTERNATIONAL_HEALTH_LAW_DB_PATH';
 const DEFAULT_DB_PATH = '../data/database.db';
 
-let dbInstance: Database.Database | null = null;
+let dbInstance: InstanceType<typeof Database> | null = null;
 
 function getDefaultDbPath(): string {
   const __filename = fileURLToPath(import.meta.url);
@@ -46,7 +46,7 @@ function getDefaultDbPath(): string {
   return path.resolve(__dirname, DEFAULT_DB_PATH);
 }
 
-function getDb(): Database.Database {
+function getDb(): InstanceType<typeof Database> {
   if (!dbInstance) {
     const dbPath = process.env[DB_ENV_VAR] || getDefaultDbPath();
     dbInstance = new Database(dbPath, { readonly: true });

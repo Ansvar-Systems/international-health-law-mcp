@@ -1,4 +1,4 @@
-import type { Database } from 'better-sqlite3';
+import type { Database } from '@ansvar/mcp-sqlite';
 import { searchHealthRegulation, type RegulationSearchResult } from './search-health-regulation.js';
 import { mapToNationalRequirements, type NationalRequirementMapping } from './map-national-requirements.js';
 

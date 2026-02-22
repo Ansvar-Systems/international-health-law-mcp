@@ -1,5 +1,5 @@
 import { describe, expect, it, beforeAll, afterAll } from 'vitest';
-import type { Database } from 'better-sqlite3';
+import type { Database } from '@ansvar/mcp-sqlite';
 import {
   createDomainTestDatabase,
   closeDomainTestDatabase,

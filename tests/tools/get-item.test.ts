@@ -9,7 +9,7 @@
  */
 
 import { describe, it, expect, beforeAll, afterAll } from 'vitest';
-import type { Database } from 'better-sqlite3';
+import type { Database } from '@ansvar/mcp-sqlite';
 import { createTestDatabase, closeTestDatabase, getSampleItem } from '../fixtures/test-db';
 import { getItem, getItems } from '../../src/tools/get-item';
 

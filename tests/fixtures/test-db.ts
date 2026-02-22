@@ -24,7 +24,7 @@
  *
  *   ```typescript
  *   import { createTestDatabase, closeTestDatabase } from '../fixtures/test-db';
- *   import type { Database } from 'better-sqlite3';
+ *   import type { Database } from '@ansvar/mcp-sqlite';
  *
  *   describe('myTool', () => {
  *     let db: Database;
@@ -68,7 +68,7 @@
  * @license Apache-2.0
  */
 
-import Database from 'better-sqlite3';
+import Database from '@ansvar/mcp-sqlite';
 
 // ═══════════════════════════════════════════════════════════════════════════
 // SAMPLE DATA
