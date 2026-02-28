@@ -93,3 +93,5 @@ tmp/
 temp/
 *.tmp
 .vercel
+.claude/
+.serena/
